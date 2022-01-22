@@ -28,6 +28,8 @@ export const RULES_VERSIONS: RulesVersion[] = [
     amendmentYear: 2021,
     showNotes: true,
     researchInProgress: true,
+    transcriptAvailable: true,
+    amendmentAvailable: true,
   },
   {
     versionNumber: 15,
@@ -36,6 +38,8 @@ export const RULES_VERSIONS: RulesVersion[] = [
     amendmentYear: 2021,
     showNotes: true,
     researchInProgress: true,
+    transcriptAvailable: true,
+    amendmentAvailable: true,
   },
   {
     versionNumber: 14,
@@ -44,6 +48,8 @@ export const RULES_VERSIONS: RulesVersion[] = [
     amendmentYear: 2021,
     showNotes: true,
     researchInProgress: true,
+    transcriptAvailable: true,
+    amendmentAvailable: true,
   },
   {
     versionNumber: 13,
@@ -52,6 +58,8 @@ export const RULES_VERSIONS: RulesVersion[] = [
     amendmentYear: 2020,
     showNotes: true,
     researchInProgress: true,
+    transcriptAvailable: true,
+    amendmentAvailable: true,
   },
   {
     versionNumber: 12,
@@ -60,6 +68,8 @@ export const RULES_VERSIONS: RulesVersion[] = [
     amendmentYear: 2020,
     showNotes: true,
     researchInProgress: true,
+    transcriptAvailable: true,
+    amendmentAvailable: true,
   },
   {
     versionNumber: 11,
