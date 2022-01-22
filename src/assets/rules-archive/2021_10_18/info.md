@@ -1,4 +1,4 @@
-# V17: Address Not Required to Speak
+# V17: Stating Address Not Required to Speak
 
 October 18, 2021 - Present 
 

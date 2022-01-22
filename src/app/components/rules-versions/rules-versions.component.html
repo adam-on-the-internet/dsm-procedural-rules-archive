@@ -1,7 +1,36 @@
 <div class="container">
   <div class="row justify-content-center my-3">
-    <div class="col-md-8">
-      <h1 class="text-center">All Procedural Rules Versions</h1>
+    <div class="col-md-8 text-center">
+      <h1>All Versions</h1>
+      <p>
+        A listing of all the versions of the DSM City Council Procedural Rules.
+      </p>
+      <table class="table">
+        <thead>
+        <tr>
+          <th>Icon</th>
+          <th>Meaning</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+          <td><i class="fa fa-file-text"></i></td>
+          <td>Research complete, notes available</td>
+        </tr>
+        <tr>
+          <td><i class="fa fa-ban"></i></td>
+          <td>Research incomplete, notes not available</td>
+        </tr>
+        <tr>
+          <td><i class="fa fa-star"></i></td>
+          <td>Current version</td>
+        </tr>
+        <tr>
+          <td><i class="fa fa-folder-open-o"></i></td>
+          <td>Missing information</td>
+        </tr>
+        </tbody>
+      </table>
     </div>
     <div class="col-md-8">
       <ul class="list-group">
@@ -10,6 +39,12 @@
             <li class="list-group-item">
               <app-version-title [version]="version">
               </app-version-title>
+              <span class="pull-right">
+              <i class="fa fa-folder-open-o mr-2" *ngIf="version.missingInfo"></i>
+              <i class="fa fa-star mr-2" *ngIf="version.current"></i>
+              <i class="fa fa-file-text" *ngIf="version.showNotes"></i>
+              <i class="fa fa-ban" *ngIf="!version.showNotes"></i>
+              </span>
             </li>
           </a>
         </ng-container>

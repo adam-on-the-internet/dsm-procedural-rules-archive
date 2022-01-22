@@ -1,6 +1,7 @@
 # V05: Rules Amended
 
-June 26, 1989 - November 18, 1991
+- Version #5
+- Active from June 26, 1989 to November 18, 1991
 
 ## Summary
 

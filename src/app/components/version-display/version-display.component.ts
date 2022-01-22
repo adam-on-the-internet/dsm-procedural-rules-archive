@@ -18,6 +18,7 @@ export class VersionDisplayComponent implements OnInit {
   }
 
   public disclaimerMarkdownPath = `assets/disclaimer.md`;
+  public missingInfoMarkdownPath = `assets/missing-info.md`;
 
   constructor() {
   }

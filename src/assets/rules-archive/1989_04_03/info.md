@@ -1,6 +1,7 @@
-# V04: Rules Amended
+# Rules Amended
 
-April 3, 1989 - June 26, 1989 
+- Version #4
+- Active from April 3, 1989 to June 26, 1989 
 
 ## Summary
 

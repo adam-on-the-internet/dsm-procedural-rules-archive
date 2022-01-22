@@ -1,6 +1,7 @@
-# V03: Rules Amended
+# Rules Amended
 
-December 19, 1988 - April 3, 1989 
+- Version #3
+- Active from December 19, 1988 to April 3, 1989 
 
 ## Summary
 

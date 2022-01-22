@@ -1,6 +1,7 @@
-# V02: Rules Amended
+# Rules Amended
 
-July 6, 1987 - December 19, 1988
+- Version #2
+- Active from July 6, 1987 to December 19, 1988
 
 ## Summary
 

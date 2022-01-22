@@ -1,5 +1,4 @@
-import {Component, OnInit} from '@angular/core';
-import {SettingsService} from "../../services/general/settings.service";
+import {Component} from '@angular/core';
 import {RULES_VERSIONS} from "../../constants/version.constants";
 import {RulesVersion} from "../../models/RulesVersion.model";
 
@@ -8,15 +7,6 @@ import {RulesVersion} from "../../models/RulesVersion.model";
   templateUrl: './rules-versions.component.html',
   styleUrls: ['./rules-versions.component.css']
 })
-export class RulesVersionsComponent implements OnInit {
+export class RulesVersionsComponent {
   public VERSIONS: RulesVersion[] = RULES_VERSIONS;
-
-  constructor(
-    private settingsService: SettingsService,
-  ) {
-  }
-
-  ngOnInit(): void {
-  }
-
 }

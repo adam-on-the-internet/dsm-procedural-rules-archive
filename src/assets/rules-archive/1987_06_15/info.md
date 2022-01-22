@@ -1,6 +1,7 @@
-# V01: Original Rules Adopted
+# Original Rules Adopted
 
-June 15, 1987 - July 6, 1987
+- Version #1
+- Active from June 15, 1987 to July 6, 1987
 
 ## Summary
 

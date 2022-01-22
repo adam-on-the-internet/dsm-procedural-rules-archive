@@ -1,6 +1,7 @@
-# V06: Rules Amended
+# Rules Amended
 
-November 18, 1991 - January 2, 1996 
+- Version #6
+- Active from November 18, 1991 to January 2, 1996 
 
 ## Summary
 
