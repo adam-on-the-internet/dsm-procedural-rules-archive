@@ -1,6 +1,14 @@
-# V11: Waiver for Ordinance Readings
+# Waiver for Ordinance Readings
 
-September 23, 2013 - August 17, 2020 
+- Version #11
+- Active from September 23, 2013 to August 17, 2020 
+- Documents
+    - [PDF Copy of Rules](assets/rules-archive/2013_09_23/copy.pdf)
+    - [Transcription of Rules](#/view/rules-archive~2013_09_23~transcription)
+    - [Amendment Text](#/view/rules-archive~2013_09_23~amendment)
+    - [Agenda for September 23, 2013](assets/rules-archive/2013_09_23/agenda.pdf)
+    - [Resolution for Item 22](assets/rules-archive/2013_09_23/resolution.pdf)
+    - [Roll Call for 13-1484](assets/rules-archive/2013_09_23/roll_call.pdf)
 
 ## Summary
 
@@ -13,23 +21,11 @@ This was done
 with respect to consideration and passage of City ordinances", 
 seemingly to fix an earlier mistake from past amendments.
 
-## Documents
-
-[PDF Copy of Rules](assets/rules-archive/2013_09_23/copy.pdf)
-
-[Transcription of Rules](#/view/rules-archive~2013_09_23~transcription)
-
-[Amendment Text](#/view/rules-archive~2013_09_23~amendment)
-
-[Agenda for September 23, 2013](assets/rules-archive/2013_09_23/agenda.pdf)
-
-[Resolution for Item 22](assets/rules-archive/2013_09_23/resolution.pdf)
-
-[Roll Call for 13-1484](assets/rules-archive/2013_09_23/roll_call.pdf)
-
 ## Details
 
-Amended rule 42A.
+One rule affected:
+
+- Amended **Rule 42A. Waiver of Ordinance Readings**
 
 Amended at the meeting on September 23, 2013 as item 22 (on the Consent Agenda for the Legal Department).
 

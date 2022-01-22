@@ -50,6 +50,7 @@ export const RULES_VERSIONS: RulesVersion[] = [
     amendmentDay: 23,
     amendmentMonth: 9,
     amendmentYear: 2013,
+    showNotes: true,
   },
   {
     versionNumber: 10,
