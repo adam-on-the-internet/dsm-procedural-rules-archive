@@ -32,6 +32,7 @@ import {MarkdownViewerComponent} from "./components/simple/markdown-viewer/markd
 import {RulesVersionComponent} from './components/rules-version/rules-version.component';
 import {RulesVersionsComponent} from './components/rules-versions/rules-versions.component';
 import {VersionTitleComponent} from './components/version-title/version-title.component';
+import {AboutComponent} from './components/about/about.component';
 
 // function that returns `MarkedOptions` with renderer override
 export function markedOptionsFactory(): MarkedOptions {
@@ -79,6 +80,7 @@ export function markedOptionsFactory(): MarkedOptions {
     RulesVersionComponent,
     RulesVersionsComponent,
     VersionTitleComponent,
+    AboutComponent,
   ],
   imports: [
     BrowserModule,

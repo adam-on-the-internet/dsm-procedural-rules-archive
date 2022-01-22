@@ -5,11 +5,13 @@ import {ROUTES_ENUM} from "./constants/routing.constants";
 import {MarkdownViewerComponent} from "./components/simple/markdown-viewer/markdown-viewer.component";
 import {RulesVersionComponent} from './components/rules-version/rules-version.component';
 import {RulesVersionsComponent} from './components/rules-versions/rules-versions.component';
+import {AboutComponent} from './components/about/about.component';
 
 const routes: Routes = [
   // main
   {path: ROUTES_ENUM.Current, component: DashboardComponent},
   {path: ROUTES_ENUM.Versions, component: RulesVersionsComponent},
+  {path: ROUTES_ENUM.About, component: AboutComponent},
   {path: ROUTES_ENUM.Version + "/:version", component: RulesVersionComponent},
   {path: ROUTES_ENUM.MarkdownViewer + "/:path", component: MarkdownViewerComponent},
   {path: "**", redirectTo: ROUTES_ENUM.Current},
