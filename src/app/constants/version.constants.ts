@@ -7,6 +7,7 @@ export const RULES_VERSIONS: RulesVersion[] = [
     amendmentMonth: 1,
     amendmentYear: 2022,
     future: true,
+    showNotes: false,
   },
   {
     versionNumber: 17,
