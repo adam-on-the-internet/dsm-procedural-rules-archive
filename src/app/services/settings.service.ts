@@ -1,8 +1,9 @@
-import { Injectable } from "@angular/core";
+import {Injectable} from "@angular/core";
 
 @Injectable({
   providedIn: "root"
 })
 export class SettingsService {
   public showNav = true;
+  public maxVersion = 10;
 }

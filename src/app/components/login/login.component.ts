@@ -99,7 +99,7 @@ export class LoginComponent {
         (error) => {
           console.log("register failed");
         }, () => {
-          this.navHelper.goToDashboard();
+          this.navHelper.goToCurrent();
         });
   }
 

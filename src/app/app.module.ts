@@ -29,6 +29,9 @@ import {QuillModule} from "ngx-quill";
 import {ModalTriggerButtonComponent} from "./components/simple/modal-trigger-button/modal-trigger-button.component";
 import {ModalBoxBasicComponent} from "./components/simple/modal-box-basic/modal-box-basic.component";
 import {MarkdownViewerComponent} from "./components/markdown-viewer/markdown-viewer.component";
+import {RulesVersionComponent} from './components/rules-version/rules-version.component';
+import {RulesVersionsComponent} from './components/rules-versions/rules-versions.component';
+import {VersionTitleComponent} from './components/version-title/version-title.component';
 
 // function that returns `MarkedOptions` with renderer override
 export function markedOptionsFactory(): MarkedOptions {
@@ -73,6 +76,9 @@ export function markedOptionsFactory(): MarkedOptions {
     ModalTriggerButtonComponent,
     ModalBoxBasicComponent,
     MarkdownViewerComponent,
+    RulesVersionComponent,
+    RulesVersionsComponent,
+    VersionTitleComponent,
   ],
   imports: [
     BrowserModule,

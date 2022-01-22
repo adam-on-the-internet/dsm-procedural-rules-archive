@@ -11,8 +11,8 @@ export class NavHelperService {
   ) {
   }
 
-  public goToDashboard(): void {
-    this.goToRoute(ROUTES_ENUM.Dashboard);
+  public goToCurrent(): void {
+    this.goToRoute(ROUTES_ENUM.Current);
   }
 
   public goToMarkdownViewer(filePath: string): void {

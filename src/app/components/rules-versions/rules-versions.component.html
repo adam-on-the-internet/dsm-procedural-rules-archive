@@ -1,0 +1,19 @@
+<div class="container">
+  <div class="row justify-content-center my-3">
+    <div class="col-md-8">
+      <h1 class="text-center">All Procedural Rules Versions</h1>
+    </div>
+    <div class="col-md-8">
+      <ul class="list-group">
+        <ng-container *ngFor="let version of VERSIONS">
+          <a href="/#/version/{{version.versionNumber}}">
+            <li class="list-group-item">
+              <app-version-title [version]="version">
+              </app-version-title>
+            </li>
+          </a>
+        </ng-container>
+      </ul>
+    </div>
+  </div>
+</div>

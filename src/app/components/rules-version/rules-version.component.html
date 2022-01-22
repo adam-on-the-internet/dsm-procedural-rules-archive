@@ -1,0 +1,37 @@
+<div class="container">
+  <ng-container *ngIf="!versionNumberReady">
+    <div class="row my-3">
+      <div class="col-md-12">
+        <p>Loading...</p>
+      </div>
+    </div>
+  </ng-container>
+  <ng-container *ngIf="versionNumberReady">
+    <ng-container *ngIf="!versionFound">
+      <div class="row my-3">
+        <div class="col-md-12">
+          <h2>
+            Not Found
+          </h2>
+          <hr>
+        </div>
+        <div class="col-md-12">
+          We didn't find the version you're looking for.
+        </div>
+      </div>
+    </ng-container>
+    <ng-container *ngIf="versionFound">
+      <div class="row my-3">
+        <div class="col-md-12">
+          <h2>
+            <app-version-title [version]="version"></app-version-title>
+          </h2>
+          <hr>
+        </div>
+        <div class="col-md-12">
+          Sorry, we don't have information on version {{versionNumber}} yet!
+        </div>
+      </div>
+    </ng-container>
+  </ng-container>
+</div>
