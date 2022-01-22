@@ -8,6 +8,7 @@ import {SettingsService} from "../../../services/general/settings.service";
   styleUrls: ["./navbar.component.css"]
 })
 export class NavbarComponent {
+  public asOfDate = this.settingsService.asOfDate;
 
   constructor(
     private settingsService: SettingsService,

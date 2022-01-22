@@ -7,8 +7,14 @@
       <hr>
     </div>
     <div class="col-md-12">
-      Sorry, we don't have information on version {{version.versionNumber}} yet!
+      <div class="alert alert-warning">
+        Sorry, we haven't finished our work on version {{version.versionNumber}} yet!
+      </div>
     </div>
+    <!--    TODO show notes -->
+    <!--    <div class="col-md-12">-->
+    <!--      <markdown [src]="infoPath"></markdown>-->
+    <!--    </div>-->
     <div class="col-md-12">
       <hr>
       <markdown [src]="disclaimerMarkdownPath"></markdown>
