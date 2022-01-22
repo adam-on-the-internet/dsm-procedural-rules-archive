@@ -1,11 +1,10 @@
 <div class="container">
   <div class="row my-3">
     <div class="col-md-12">
-      <markdown [src]="currentRulesMarkdownPath"></markdown>
-      <hr>
-    </div>
-    <div class="col-md-12">
-      This current version is {{currentVersionNumber}}.
+      <div class="alert alert-info">
+        <markdown [src]="currentRulesMarkdownPath"></markdown>
+      </div>
     </div>
   </div>
+  <app-version-display [version]="currentVersion"></app-version-display>
 </div>

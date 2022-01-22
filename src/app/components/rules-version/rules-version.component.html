@@ -21,17 +21,7 @@
       </div>
     </ng-container>
     <ng-container *ngIf="versionFound">
-      <div class="row my-3">
-        <div class="col-md-12">
-          <h2>
-            <app-version-title [version]="version"></app-version-title>
-          </h2>
-          <hr>
-        </div>
-        <div class="col-md-12">
-          Sorry, we don't have information on version {{versionNumber}} yet!
-        </div>
-      </div>
+      <app-version-display [version]="version"></app-version-display>
     </ng-container>
   </ng-container>
 </div>

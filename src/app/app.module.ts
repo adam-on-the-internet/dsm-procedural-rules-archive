@@ -34,6 +34,7 @@ import {RulesVersionsComponent} from './components/rules-versions/rules-versions
 import {VersionTitleComponent} from './components/version-title/version-title.component';
 import {AboutComponent} from './components/about/about.component';
 import { CurrentRulesComponent } from './components/current-rules/current-rules.component';
+import { VersionDisplayComponent } from './components/version-display/version-display.component';
 
 // function that returns `MarkedOptions` with renderer override
 export function markedOptionsFactory(): MarkedOptions {
@@ -83,6 +84,7 @@ export function markedOptionsFactory(): MarkedOptions {
     VersionTitleComponent,
     AboutComponent,
     CurrentRulesComponent,
+    VersionDisplayComponent,
   ],
   imports: [
     BrowserModule,

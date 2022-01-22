@@ -10,10 +10,9 @@ import {RULES_VERSIONS} from "../../constants/version.constants";
 })
 export class RulesVersionComponent implements OnInit {
   public versionNumber: number = null;
-  public VERSIONS: RulesVersion[] = RULES_VERSIONS;
 
   public get version(): RulesVersion {
-    return this.VERSIONS.find((version) => {
+    return RULES_VERSIONS.find((version) => {
       return version.versionNumber === this.versionNumber;
     });
   }
