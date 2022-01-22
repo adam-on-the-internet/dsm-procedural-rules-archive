@@ -13,9 +13,9 @@ items approved at the meeting."
 
 ## Details
 
-Amended one rule:
+One rule affected:
 
-- Rule 18. Call to Order
+- Amended **Rule 18. Call to Order**
 
 Amended at the meeting on November 16, 1998 as item 1I (not on the Consent Agenda).
 
