@@ -23,6 +23,7 @@ export class LinkService {
   public email = "dsmpeoplestownhall@gmail.com";
   public emailLink = "mailto:" + this.email;
   public linkTreeLink = "https://linktr.ee/dsmpeoplestownhall";
+  public githubLink = "https://github.com/adam-on-the-internet/dsm-procedural-rules-archive";
 
   // specific links
   public petitionLink = "https://t.co/GXc99YcO4d?amp=1";
