@@ -1,17 +1,12 @@
 # PROCEDURAL RULES OF DES MOINES CITY COUNCIL
 
-Verson 15
-
-As of amendments made on May 24, 2021.
-
-Transcribed by adding [the amendments](assets/rules-archive/2021_05_24/resolution.pdf) 
+- Verson 15
+- As of amendments made on May 24, 2021
+- Transcribed by adding [the amendments](assets/rules-archive/2021_05_24/resolution.pdf) 
 to [the previous transcription](#/view/rules-archive~2021_05_10~transcription).
-
-This is an unofficial transcription. For an official copy, submit a FOIA request to the City of Des Moines.
-
-Rule(s) amended: 
- - Rule 5. Regular Meetings
- - Rule 42. Motions
+- Rules affected: 
+    - Amended **Rule 5. Regular Meetings**
+    - Amended **Rule 42. Motions**
 
 ## Part I. General Provision
 
