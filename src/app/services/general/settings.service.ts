@@ -5,6 +5,5 @@ import {Injectable} from "@angular/core";
 })
 export class SettingsService {
   public showNav = true;
-  public currentVersionNumber = 17;
-  public asOfDate = "October 18, 2021"; // TODO can we just get this from current version?
+  public asOfDate = "January 22, 2022";
 }
