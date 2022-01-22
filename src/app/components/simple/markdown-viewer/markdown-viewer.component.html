@@ -11,8 +11,15 @@
             <hr>
           </section>
           <markdown [src]="fullPath"></markdown>
+          <section id="disclaimer">
+            <hr>
+            <markdown [src]="disclaimerMarkdownPath"></markdown>
+          </section>
           <section id="file-options">
             <hr>
+            <p>
+              File Options
+            </p>
             <p>
               <a [attr.href]="fullPath" target="_blank">
                 View Raw Text (in Markdown Format)

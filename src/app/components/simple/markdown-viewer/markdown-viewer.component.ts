@@ -10,6 +10,7 @@ import {RulesVersion} from "../../../models/RulesVersion.model";
 })
 export class MarkdownViewerComponent implements OnInit {
   public path: string = null;
+  public disclaimerMarkdownPath = `assets/disclaimer.md`;
 
   public get ready(): boolean {
     return this.path !== null;

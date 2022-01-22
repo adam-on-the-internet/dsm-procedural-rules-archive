@@ -4,7 +4,7 @@
 - Active from October 18, 2021 to Present
 - Key Documents:
     - [Rules Version: Transcription](#/view/rules-archive~2021_10_18~transcription)
-    - [Rules Version: City's PDF Copy](assets/rules-archive/2021_10_18/copy.pdf)
+    - [Rules Version: PDF Copy](assets/rules-archive/2021_10_18/copy.pdf)
     - [Rules Amendment Text](#/view/rules-archive~2021_10_18~amendment)
 - Other Documents:
     - [Meeting Agenda for October 18, 2021](assets/rules-archive/2021_10_18/agenda.pdf)
