@@ -4,15 +4,31 @@
       <i class="fa fa-compass"></i>
       Version {{version.versionNumber}} Navigation
       |
-      <a [href]="previousVersionUrl" [class.disabled]="!previousIsAvailable">
-        <i class="fa fa-arrow-left"></i>
-        Previous
-      </a>
+      <ng-container *ngIf="previousIsAvailable">
+        <a [href]="previousVersionUrl">
+          <i class="fa fa-arrow-left"></i>
+          Previous
+        </a>
+      </ng-container>
+      <ng-container *ngIf="!previousIsAvailable">
+        <a>
+          <i class="fa fa-arrow-left"></i>
+          Previous
+        </a>
+      </ng-container>
       |
-      <a [href]="nextVersionUrl" [class.disabled]="!nextIsAvailable">
-        Next
-        <i class="fa fa-arrow-right"></i>
-      </a>
+      <ng-container *ngIf="nextIsAvailable">
+        <a [href]="nextVersionUrl">
+          Next
+          <i class="fa fa-arrow-right"></i>
+        </a>
+      </ng-container>
+      <ng-container *ngIf="!nextIsAvailable">
+        <a>
+          Next
+          <i class="fa fa-arrow-right"></i>
+        </a>
+      </ng-container>
       |
       <a [href]="versionOverviewUrl">
         <i class="fa fa-sticky-note-o"></i>
