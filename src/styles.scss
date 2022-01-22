@@ -1,0 +1,25 @@
+@import "variables";
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+html, body {
+  overflow-x: hidden;
+  background: black;
+}
+
+img {
+  max-width: 300px;
+  max-height: 300px;
+}
+
+.hover {
+  background-color: #cfeaea;
+  border: 3px solid black;
+}
+
+.hover:hover {
+  background-color: #d6cfcf;
+}
+
+.transparent {
+  background: rgba(198, 192, 192, 0.9);
+}

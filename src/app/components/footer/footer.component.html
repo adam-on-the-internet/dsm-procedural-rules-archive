@@ -1,0 +1,59 @@
+<div class="bg-main">
+  <div class="row">
+    <div class="col-md-12 my-3 text-center">
+      <p class="my-0">
+        <a
+          class="btn btn-link text-white"
+          [attr.href]="linkService.facebookLink"
+          target="_blank"
+        >
+          <i class="fa fa-facebook fa-2x"></i>
+        </a>
+        <a
+          class="btn btn-link text-white"
+          [attr.href]="linkService.instagramLink"
+          target="_blank"
+        >
+          <i class="fa fa-instagram fa-2x"></i>
+        </a>
+        <a
+          class="btn btn-link text-white"
+          [attr.href]="linkService.twitterLink"
+          target="_blank"
+        >
+          <i class="fa fa-twitter fa-2x"></i>
+        </a>
+        <a
+          class="btn btn-link text-white"
+          [attr.href]="linkService.emailLink"
+          target="_blank"
+        >
+          <i class="fa fa-envelope fa-2x"></i>
+        </a>
+        <a
+          class="btn btn-link text-white"
+          [attr.href]="linkService.linkTreeLink"
+          target="_blank"
+        >
+          <i class="fa fa-link fa-2x"></i>
+        </a>
+      </p>
+      <p class="my-0 text-white">
+        <a
+          class="text-white"
+        >
+          Des Moines People's Town Hall {{ year }}
+        </a>
+      </p>
+      <p class="my-0 text-white">
+        {{linkService.email}}
+      </p>
+      <!--      <p class="my-0" *ngIf="!isLoggedIn">-->
+      <!--        <button class="btn btn-link text-white" (click)="goToLogin()">-->
+      <!--          <i class="fa fa-lock"></i>-->
+      <!--          Login-->
+      <!--        </button>-->
+      <!--      </p>-->
+    </div>
+  </div>
+</div>
