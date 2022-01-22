@@ -7,6 +7,66 @@ to [the previous transcription](#/view/rules-archive~2021_05_10~transcription).
 - Rules affected: 
     - Amended **Rule 5. Regular Meetings**
     - Amended **Rule 42. Motions**
+    
+## Contents
+
+* Part I. General Provision
+    * Rule 1. Scope of Rules
+    * Rule 2. Technical Parliamentary Forms Abolished
+    * Rule 3. Matters Not Covered
+    * Rule 4. Interpretation
+* Part II. Time and Place of Meeting
+    * Rule 5. Regular Meetings
+    * Rule 6. Special Meetings
+    * Rule 7. Quorum
+* Part III. Agenda
+    * Rule 8. Preparation of Agenda
+    * Rule 9. Consent Agenda
+    * Rule 10. Hearings, Permits and License Agenda
+    * Rule 11. Agenda Deadline
+    * Rule 12. Extra Items
+    * Rule 13. Sponsor Required
+    * Rule 14. Staff Withdrawal of Items
+    * Rule 15. Council Action to Defer, Continue or Not Act
+    * Rule 16. Citizen Agenda Requests
+* Part IV. Conduct of Meetings
+    * Rule 17. Roll Call
+    * Rule 18. Call to Order
+    * Rule 19. Presiding Officer
+    * Rule 20. Control of Discussion
+    * Rule 21. Order of Consideration of Agenda
+    * Rule 22. Discussion
+    * Rule 23. Presiding Officer's Right to Enter into Discussion
+    * Rule 24. Limit on Remarks
+    * Rule 25. Presiding Officer's Right to Speak Last
+    * Rule 26. Closing Debate
+* Part V. Citizen Participation
+    * Rule 27. Citizen's Right to Address Council
+    * Rule 28. Manner of Addressing Council
+    * Rule 29. Time Limit on Citizen's Remarks
+    * Rule 30. Remarks of Citizens to be Germane
+    * Rule 31. Matters Not on the Agenda
+    * Rule 31A. Failure to Follow Council Rules
+* Part VI. Council Action
+    * Rule 32. Motion Required
+    * Rule 33. Motion to Reconsider
+    * Rule 33A.
+    * Rule 34. No Motions by Presiding Officer
+    * Rule 35. Call for Vote
+    * Rule 36. Separate Consideration
+    * Rule 37. Action on Consent Agenda
+    * Rule 38. Action to Multiple Items
+    * Rule 39. Consideration Out of Order
+    * Rule 40. Recording Names of Moving Members
+    * Rule 41. Consideration of Matters Not on Agenda
+* Part VII. Miscellaneous
+    * Rule 42. Motions
+    * Rule 42A. Waiver of Ordinance Readings
+    * Rule 43. Applicability of Rules
+    * Rule 44. Name of Sponsor on Roll Call
+    * Rule 45. Suspension of Rules
+    * Rule 46. Hearings
+    * Rule 47. Informal Requests
 
 ## Part I. General Provision
 
