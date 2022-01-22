@@ -5,5 +5,6 @@ export interface RulesVersion {
   amendmentYear: number;
   showNotes?: boolean;
   current?: boolean;
+  future?: boolean;
   missingInfo?: boolean;
 }
