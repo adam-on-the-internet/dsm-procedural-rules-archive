@@ -55,7 +55,8 @@ export const RULES_VERSIONS: RulesVersion[] = [
     amendmentDay: 17,
     amendmentMonth: 8,
     amendmentYear: 2020,
-    showNotes: false,
+    showNotes: true,
+    researchInProgress: true,
   },
   {
     versionNumber: 11,

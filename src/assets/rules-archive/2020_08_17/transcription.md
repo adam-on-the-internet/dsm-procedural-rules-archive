@@ -1,25 +1,20 @@
 # PROCEDURAL RULES OF DES MOINES CITY COUNCIL
 
-Version 12
-
-As of amendments made on August 17, 2020.
-
-Transcribed from [Resolution for Item I (Includes PDF Copy of Full Rules)](assets/rules-archive/2020_08_17/resolution.pdf).
-
-This is an unofficial transcription. For an official copy, submit a FOIA request to the City of Des Moines.
-
-Rule(s) amended: 
- - Rule 5. Regular Meetings
- - Rule 16. Citizen Agenda Requests
- - Rule 20. Control of Discussion
- - Rule 28. Manner of Addressing Council
- - Rule 29. Time Limit on Citizen's Remarks
- - Rule 30. Remarks of Citizens to be Germane
- - Rule 31A. Failure to Follow Council Rules
- - Rule 37. Action on Consent Agenda
- - Rule 41. Consideration of Matters Not on Agenda
- - Rule 43. Applicability of Rules
- - Rule 46. Hearings
+- Version 12
+- As of amendments made on August 17, 2020
+- Transcribed from [Resolution for Item I (Includes PDF Copy of Full Rules)](assets/rules-archive/2020_08_17/resolution.pdf)
+- Eleven rules affected:
+     - Amended **Rule 5. Regular Meetings**
+     - Amended **Rule 16. Citizen Agenda Requests**
+     - Amended **Rule 20. Control of Discussion**
+     - Amended **Rule 28. Manner of Addressing Council**
+     - Amended **Rule 29. Time Limit on Citizen's Remarks**
+     - Amended **Rule 30. Remarks of Citizens to be Germane**
+     - Adopted **Rule 31A. Failure to Follow Council Rules**
+     - Amended **Rule 37. Action on Consent Agenda**
+     - Amended **Rule 41. Consideration of Matters Not on Agenda**
+     - Amended **Rule 43. Applicability of Rules**
+     - Amended **Rule 46. Hearings**
 
 ## Part I. General Provision
 
