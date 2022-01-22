@@ -3,14 +3,7 @@
     <div class="col-md-12">
       <ng-container *ngIf="ready; else loading">
         <div class="my-3">
-          <section id="agenda-extensions" *ngIf="isRulesArchive">
-            <p>
-              <i class="fa fa-compass"></i>
-              Version {{versionNumber}} Navigation |
-              <a [href]="versionOverviewUrl">To Version Overview</a>
-            </p>
-            <hr>
-          </section>
+          <app-version-nav *ngIf="isRulesArchive" [version]="version"></app-version-nav>
           <markdown [src]="fullPath"></markdown>
           <section id="disclaimer">
             <hr>

@@ -1,0 +1,38 @@
+<ng-container>
+  <section id="agenda-extensions">
+    <p>
+      <i class="fa fa-compass"></i>
+      Version {{version.versionNumber}} Navigation
+      |
+      <a [href]="versionOverviewUrl">
+        <i class="fa fa-sticky-note-o"></i>
+        To Version Overview
+      </a>
+      |
+      <a [href]="previousVersionUrl" [class.disabled]="!previousIsAvailable">
+        <i class="fa fa-arrow-left"></i>
+        Previous Version
+      </a>
+      |
+      <a [href]="nextVersionUrl" [class.disabled]="!nextIsAvailable">
+        Next Version
+        <i class="fa fa-arrow-right"></i>
+      </a>
+      <ng-container *ngIf="version.transcriptAvailable">
+        |
+        <a [href]="versionTranscriptUrl">
+          <i class="fa fa-clone"></i>
+          Transcript
+        </a>
+      </ng-container>
+      <ng-container *ngIf="version.appendixAvailable">
+        |
+        <a [href]="versionAppendixUrl">
+          <i class="fa fa-ellipsis-h"></i>
+          Appendix
+        </a>
+      </ng-container>
+    </p>
+    <hr>
+  </section>
+</ng-container>

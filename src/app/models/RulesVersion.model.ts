@@ -8,4 +8,6 @@ export interface RulesVersion {
   future?: boolean;
   missingInfo?: boolean;
   researchInProgress?: boolean;
+  transcriptAvailable?: boolean;
+  appendixAvailable?: boolean;
 }

@@ -44,10 +44,6 @@ export class MarkdownViewerComponent implements OnInit {
     }
   }
 
-  public get versionOverviewUrl(): string {
-    return `#/version/${this.versionNumber}`;
-  }
-
   constructor(
     private route: ActivatedRoute,
     private router: Router,
