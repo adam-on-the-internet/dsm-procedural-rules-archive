@@ -20,9 +20,3 @@ This archive was sourced from city documents which are often incomplete or inacc
 by people who often make mistakes.
 If you find any mistakes, or you have additional context you'd like us to add,
 please contact us at dsmpeoplestownhall@gmail.com.
-
-This archive is not an official source of city information.
-If you want an official version for any of the versions of the rules, 
-please contact 
-the Des Moines City Clerk (CityClerk@dmgov.org) 
-or the Des Moines FOIA Office (https://www.dsm.city/interactive_forms/public_records_request.php).

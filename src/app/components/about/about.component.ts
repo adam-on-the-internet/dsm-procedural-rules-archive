@@ -7,4 +7,5 @@ import {Component} from '@angular/core';
 })
 export class AboutComponent {
   public aboutMarkdownPath = `assets/about.md`;
+  public disclaimerMarkdownPath = `assets/disclaimer.md`;
 }

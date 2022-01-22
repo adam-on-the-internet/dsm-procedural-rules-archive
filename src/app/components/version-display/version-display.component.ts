@@ -9,6 +9,8 @@ import {RulesVersion} from "../../models/RulesVersion.model";
 export class VersionDisplayComponent implements OnInit {
   @Input() version: RulesVersion = null;
 
+  public disclaimerMarkdownPath = `assets/disclaimer.md`;
+
   constructor() {
   }
 
