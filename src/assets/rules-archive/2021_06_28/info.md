@@ -1,6 +1,14 @@
-# V16: Council Forbids Consent Requests
+# Council Forbids Public Consent Agenda Removal Requests
 
-June 28, 2021 - October 18, 2021
+- Version #16
+- Active from June 28, 2021 to October 18, 2021
+- Documents
+    - [PDF Copy of Rules](assets/rules-archive/2021_06_28/copy.pdf)
+    - [Transcription of Rules](#/view/rules-archive~2021_06_28~transcription)
+    - [Amendment Text](#/view/rules-archive~2021_06_28~amendment)
+    - [Agenda for June 28, 2021](assets/rules-archive/2021_06_28/agenda.pdf)
+    - [Resolution for Item I](assets/rules-archive/2021_06_28/resolution.pdf)
+    - [Roll Call for 21-0944](assets/rules-archive/2021_06_28/roll_call.pdf)
 
 ## Summary
 
@@ -14,28 +22,16 @@ These rules were put in place at the start of the meeting (around 5pm) and took 
 
 The vote passed unanimously and no public comment was permitted. 
 
-Rule 37. Action on Consent Agenda was amended as follows:
+**Rule 37. Action on Consent Agenda** was amended as follows:
 
 - If members of the public wish to request an item be pulled from the consent agenda, they must send a request to the City Clerk by 3pm the day of the meeting (via email, mail, or other writing).
 - No such oral requests may be made at the meeting. 
     
-## Documents
-
-[PDF Copy of Rules](assets/rules-archive/2021_06_28/copy.pdf)
-
-[Transcription of Rules](#/view/rules-archive~2021_06_28~transcription)
-
-[Amendment Text](#/view/rules-archive~2021_06_28~amendment)
-
-[Agenda for June 28, 2021](assets/rules-archive/2021_06_28/agenda.pdf)
-
-[Resolution for Item I](assets/rules-archive/2021_06_28/resolution.pdf)
-
-[Roll Call for 21-0944](assets/rules-archive/2021_06_28/roll_call.pdf)
-
 ## Details
 
-Amended rule 37.
+One rule affected:
+
+- Amended **Rule 37. Action on Consent Agenda**
 
 Amended at the meeting on June 28, 2021 as item I (not on the Consent Agenda).
 
