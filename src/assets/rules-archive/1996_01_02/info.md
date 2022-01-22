@@ -1,16 +1,15 @@
-# V07: Waiving of Ordinances
+# Waiving of Ordinances
 
-January 2, 1996 - November 16, 1998 
+- Version #7
+- Active from January 2, 1996 to November 16, 1998 
+- Documents
+    - [Meeting Minutes for January 2, 1996](assets/rules-archive/1996_01_02/meeting_minutes.pdf)
 
 ## Summary
 
 The City amended the Procedural Rules "regarding waiving of ordinances".
 
-## Documents
-
-[Meeting Minutes for January 2, 1996](assets/rules-archive/1996_01_02/meeting_minutes.pdf)
-
-## Notes
+## Details
 
 Amended at the meeting on January 2, 1996 as item 33 (not on the Consent Agenda).
 

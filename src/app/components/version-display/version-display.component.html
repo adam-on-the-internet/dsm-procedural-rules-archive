@@ -1,6 +1,20 @@
 <ng-container>
   <div class="row my-3">
     <div class="col-md-12">
+      <div class="pull-right">
+        <a class="btn btn-secondary btn-sm mx-2" href="/#/version/{{version.versionNumber - 1}}"
+           [class.disabled]="!previousIsAvailable">
+          <i class="fa fa-arrow-left"></i>
+          Previous Version
+        </a>
+        <a class="btn btn-secondary btn-sm mx-2 disabled" href="/#/version/{{version.versionNumber + 1}}"
+           [class.disabled]="!nextIsAvailable">
+          Next Version
+          <i class="fa fa-arrow-right"></i>
+        </a>
+      </div>
+    </div>
+    <div class="col-md-12">
       <h2>
         <app-version-title [version]="version"></app-version-title>
         <small *ngIf="version.current">Current Version</small>
