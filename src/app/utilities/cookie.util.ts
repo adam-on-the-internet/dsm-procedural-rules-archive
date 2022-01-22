@@ -1,4 +1,4 @@
-import { UserDetails } from "../models/UserDetails.model";
+import { UserDetails } from "../models/general/UserDetails.model";
 import { HttpHeaders } from "@angular/common/http";
 
 export abstract class CookieHelper {

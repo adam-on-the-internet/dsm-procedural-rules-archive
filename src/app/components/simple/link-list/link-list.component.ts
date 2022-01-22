@@ -1,7 +1,7 @@
 import {Component, Input} from "@angular/core";
 import {BooleanHelper} from "../../../utilities/boolean.util";
 import {StringHelper} from "../../../utilities/string.util";
-import {LinkItem} from "../../../models/LinkItem.model";
+import {LinkItem} from "../../../models/general/LinkItem.model";
 
 @Component({
   selector: "app-link-list",

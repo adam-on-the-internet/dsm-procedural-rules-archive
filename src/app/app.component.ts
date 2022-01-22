@@ -1,6 +1,6 @@
 import {Component, OnInit} from "@angular/core";
-import {LogService} from "./services/log.service";
-import {SettingsService} from "./services/settings.service";
+import {LogService} from "./services/general/log.service";
+import {SettingsService} from "./services/general/settings.service";
 
 @Component({
   selector: "app-root",

@@ -4,7 +4,7 @@ import {ProfileComponent} from "./profile.component";
 import {HttpClientTestingModule} from "@angular/common/http/testing";
 import {HeaderComponent} from "../header/header.component";
 import {BodyComponent} from "../body/body.component";
-import {CardComponent} from "../simple/card/card.component";
+import {CardComponent} from "../card/card.component";
 
 describe("ProfileComponent", () => {
   let component: ProfileComponent;

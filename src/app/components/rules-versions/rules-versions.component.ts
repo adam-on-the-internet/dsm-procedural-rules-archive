@@ -1,5 +1,5 @@
 import {Component, OnInit} from '@angular/core';
-import {SettingsService} from "../../services/settings.service";
+import {SettingsService} from "../../services/general/settings.service";
 import {RULES_VERSIONS} from "../../constants/version.constants";
 import {RulesVersion} from "../../models/RulesVersion.model";
 

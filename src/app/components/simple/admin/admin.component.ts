@@ -1,5 +1,5 @@
 import {Component} from "@angular/core";
-import {NavHelperService} from "src/app/services/nav-helper.service";
+import {NavHelperService} from "src/app/services/general/nav-helper.service";
 import {ServiceUrl} from "src/app/constants/rest.constants";
 
 @Component({

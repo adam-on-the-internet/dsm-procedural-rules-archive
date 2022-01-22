@@ -1,8 +1,8 @@
 import {ComponentFixture, TestBed} from "@angular/core/testing";
 
 import {MarkdownViewerComponent} from "./markdown-viewer.component";
-import {LoadingComponent} from "../simple/loading/loading.component";
-import {CardComponent} from "../simple/card/card.component";
+import {LoadingComponent} from "../loading/loading.component";
+import {CardComponent} from "../card/card.component";
 import {RouterTestingModule} from "@angular/router/testing";
 
 describe("MarkdownViewerComponent", () => {

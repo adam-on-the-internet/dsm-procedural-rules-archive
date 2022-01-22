@@ -1,4 +1,4 @@
-import { Endpoint } from "../models/Endpoint.model";
+import { Endpoint } from "../models/general/Endpoint.model";
 
 export abstract class RestUrlBuilder {
   public static buildRestUrl(endpoint: Endpoint): string {

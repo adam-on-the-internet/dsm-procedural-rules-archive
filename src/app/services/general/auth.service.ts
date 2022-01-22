@@ -1,10 +1,10 @@
 import { Injectable } from "@angular/core";
 import { HttpClient } from "@angular/common/http";
-import { RestUrlBuilder } from "../utilities/rest-url-builder.util";
-import { ServiceUrl } from "../constants/rest.constants";
+import { RestUrlBuilder } from "../../utilities/rest-url-builder.util";
+import { ServiceUrl } from "../../constants/rest.constants";
 import { Observable } from "rxjs";
-import { TokenResponse } from "../models/Token.model";
-import { CookieHelper } from "../utilities/cookie.util";
+import { TokenResponse } from "../../models/general/Token.model";
+import { CookieHelper } from "../../utilities/cookie.util";
 import { map } from "rxjs/operators";
 
 @Injectable({

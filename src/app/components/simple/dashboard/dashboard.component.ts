@@ -1,7 +1,7 @@
 import {Component} from "@angular/core";
-import {NavHelperService} from "src/app/services/nav-helper.service";
-import {SettingsService} from "../../services/settings.service";
-import {LinkService} from "../../services/link.service";
+import {NavHelperService} from "src/app/services/general/nav-helper.service";
+import {SettingsService} from "../../../services/general/settings.service";
+import {LinkService} from "../../../services/general/link.service";
 
 @Component({
   selector: "app-dashboard",

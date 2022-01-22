@@ -1,6 +1,6 @@
 import {Injectable} from "@angular/core";
 import {Router} from "@angular/router";
-import {ROUTES_ENUM} from "../constants/routing.constants";
+import {ROUTES_ENUM} from "../../constants/routing.constants";
 
 @Injectable({
   providedIn: "root"

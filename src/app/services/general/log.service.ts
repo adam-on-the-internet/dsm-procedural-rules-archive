@@ -1,10 +1,10 @@
 import { Injectable } from "@angular/core";
 import { HttpClient } from "@angular/common/http";
 import { Observable } from "rxjs";
-import { Log } from "../models/Log.model";
-import { RestUrlBuilder } from "../utilities/rest-url-builder.util";
-import { ServiceUrl } from "../constants/rest.constants";
-import { CookieHelper } from "../utilities/cookie.util";
+import { Log } from "../../models/general/Log.model";
+import { RestUrlBuilder } from "../../utilities/rest-url-builder.util";
+import { ServiceUrl } from "../../constants/rest.constants";
+import { CookieHelper } from "../../utilities/cookie.util";
 
 @Injectable({
   providedIn: "root"

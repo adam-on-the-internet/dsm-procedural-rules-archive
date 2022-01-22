@@ -1,5 +1,5 @@
 import {Component, Input} from "@angular/core";
-import {LinkItem} from "../../models/LinkItem.model";
+import {LinkItem} from "../../../models/general/LinkItem.model";
 
 @Component({
   selector: "app-link-display",

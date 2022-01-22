@@ -1,7 +1,7 @@
 import { TestBed, waitForAsync } from "@angular/core/testing";
 import { AppComponent } from "./app.component";
-import { NavbarComponent } from "./components/navbar/navbar.component";
-import { FooterComponent } from "./components/footer/footer.component";
+import { NavbarComponent } from "./components/simple/navbar/navbar.component";
+import { FooterComponent } from "./components/simple/footer/footer.component";
 import { RouterTestingModule } from "@angular/router/testing";
 import { HttpClientTestingModule } from "@angular/common/http/testing";
 

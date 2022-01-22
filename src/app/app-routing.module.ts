@@ -1,8 +1,8 @@
 import {NgModule} from "@angular/core";
 import {RouterModule, Routes} from "@angular/router";
-import {DashboardComponent} from "./components/dashboard/dashboard.component";
+import {DashboardComponent} from "./components/simple/dashboard/dashboard.component";
 import {ROUTES_ENUM} from "./constants/routing.constants";
-import {MarkdownViewerComponent} from "./components/markdown-viewer/markdown-viewer.component";
+import {MarkdownViewerComponent} from "./components/simple/markdown-viewer/markdown-viewer.component";
 import {RulesVersionComponent} from './components/rules-version/rules-version.component';
 import {RulesVersionsComponent} from './components/rules-versions/rules-versions.component';
 
