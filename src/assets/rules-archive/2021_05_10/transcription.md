@@ -1,17 +1,12 @@
 # PROCEDURAL RULES OF DES MOINES CITY COUNCIL
 
-Version 14
-
-As of amendments made on May 10, 2021.
-
-Transcribed by adding [the amendments](assets/rules-archive/2021_05_10/resolution.pdf) 
+- Version 14
+- As of amendments made on May 10, 2021.
+- Transcribed by adding [the amendments](assets/rules-archive/2021_05_10/resolution.pdf) 
 to [the previous transcription](#/view/rules-archive~2020_11_09~transcription).
-
-This is an unofficial transcription. For an official copy, submit a FOIA request to the City of Des Moines.
-
-Amended rule(s):
- - Rule 16. Citizen Agenda Requests
- - Rule 30. Remarks of Citizens to be Germane
+- Two rules affected:
+    - Amended **Rule 16. Citizen Agenda Requests**
+    - Amended **Rule 30. Remarks of Citizens to be Germane**
 
 ## Part I. General Provision
 

@@ -6,9 +6,9 @@
     - [Rules Version: Transcription](#/view/rules-archive~2021_05_24~transcription)
     - [Rules Amendment Text](#/view/rules-archive~2021_05_24~amendment)
 - Other Documents:
-    - [Agenda for May 24, 2021](assets/rules-archive/2021_05_24/agenda.pdf)
+    - [Meeting Agenda for May 24, 2021](assets/rules-archive/2021_05_24/agenda.pdf)
     - [Resolution for Item 39I](assets/rules-archive/2021_05_24/resolution.pdf)
-    - [Roll Call for 21-0796](assets/rules-archive/2021_05_24/roll_call.pdf)
+    - [Roll Call 21-0796](assets/rules-archive/2021_05_24/roll_call.pdf)
 
 ## Summary
 
