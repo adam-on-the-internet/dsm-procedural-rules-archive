@@ -3,7 +3,7 @@
     <div class="col-md-12">
       <h2>
         <app-version-title [version]="version"></app-version-title>
-        <span *ngIf="version.current">(Current Version)</span>
+        <small *ngIf="version.current">Current Version</small>
       </h2>
       <hr>
     </div>
