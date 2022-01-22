@@ -15,11 +15,15 @@
         <tbody>
         <tr>
           <td><i class="fa fa-file-text"></i></td>
-          <td>Research complete, notes available</td>
+          <td>Notes available</td>
+        </tr>
+        <tr>
+          <td><i class="fa fa-hourglass-half"></i></td>
+          <td>Research in progress</td>
         </tr>
         <tr>
           <td><i class="fa fa-ban"></i></td>
-          <td>Research incomplete, notes not available</td>
+          <td>Notes not available</td>
         </tr>
         <tr>
           <td><i class="fa fa-star"></i></td>
@@ -44,9 +48,10 @@
               <app-version-title [version]="version">
               </app-version-title>
               <span class="pull-right">
-              <i class="fa fa-calendar-o mr-2" *ngIf="version.future"></i>
-              <i class="fa fa-folder-open-o mr-2" *ngIf="version.missingInfo"></i>
               <i class="fa fa-star mr-2" *ngIf="version.current"></i>
+              <i class="fa fa-calendar-o mr-2" *ngIf="version.future"></i>
+              <i class="fa fa-hourglass-half mr-2" *ngIf="version.researchInProgress"></i>
+              <i class="fa fa-folder-open-o mr-2" *ngIf="version.missingInfo"></i>
               <i class="fa fa-file-text mr-2" *ngIf="version.showNotes"></i>
               <i class="fa fa-ban mr-2" *ngIf="!version.showNotes"></i>
               </span>

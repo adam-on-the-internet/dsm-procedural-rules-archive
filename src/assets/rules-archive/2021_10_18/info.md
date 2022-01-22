@@ -2,22 +2,19 @@
 
 - Version #17
 - Active from October 18, 2021 to Present
-- Documents:
-    - [PDF Copy of Rules](assets/rules-archive/2021_10_18/copy.pdf)
-    - [Transcription of Rules](#/view/rules-archive~2021_10_18~transcription)
-    - [Amendment Text](#/view/rules-archive~2021_10_18~amendment)
-    - [Agenda for October 18, 2021](assets/rules-archive/2021_10_18/agenda.pdf)
+- Key Documents:
+    - [Rules Version: Transcription](#/view/rules-archive~2021_10_18~transcription)
+    - [Rules Version: City's PDF Copy](assets/rules-archive/2021_10_18/copy.pdf)
+    - [Rules Amendment Text](#/view/rules-archive~2021_10_18~amendment)
+- Other Documents:
+    - [Meeting Agenda for October 18, 2021](assets/rules-archive/2021_10_18/agenda.pdf)
     - [Resolution for Item I](assets/rules-archive/2021_10_18/resolution.pdf)
-    - [Roll Call for 21-1530](assets/rules-archive/2021_10_18/roll_call.pdf)
+    - [Roll Call 21-1530](assets/rules-archive/2021_10_18/roll_call.pdf)
 
 ## Summary
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae enim ipsa nulla quo. A ab blanditiis laboriosam necessitatibus nemo placeat? 
+We're still researching to develop a summary for this item.
 
-**Rule 28. Manner of Addressing Council** was amended as follows:
-
-- Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad consequatur eum nam necessitatibus odio. Deserunt? 
-    
 ## Details
 
 One rule affected:

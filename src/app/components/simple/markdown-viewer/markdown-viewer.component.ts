@@ -1,5 +1,7 @@
 import {Component, OnInit} from "@angular/core";
 import {ActivatedRoute, NavigationEnd, Router} from "@angular/router";
+import {RULES_VERSIONS} from "../../../constants/version.constants";
+import {RulesVersion} from "../../../models/RulesVersion.model";
 
 @Component({
   selector: "app-markdown-viewer",
@@ -17,18 +19,32 @@ export class MarkdownViewerComponent implements OnInit {
     return `assets/${this.path}.md`;
   }
 
-  public get isAgenda(): boolean {
-    return this.path.startsWith("agenda/");
+  public get isRulesArchive(): boolean {
+    return this.path.startsWith("rules-archive/");
   }
 
-  public get hasAgendaNotesUrl(): boolean {
-    return this.isAgenda && this.path.includes("/transcription/");
+  public get version(): RulesVersion {
+    const date = this.path.split("/")[1];
+    const datePieces = date.split("_");
+    const day = Number(datePieces[2]);
+    const month = Number(datePieces[1]);
+    const year = Number(datePieces[0]);
+    return RULES_VERSIONS.find((version) => {
+      return version.amendmentDay === day && version.amendmentMonth === month &&
+        version.amendmentYear === year;
+    });
   }
 
-  public get agendaNotesUrl(): string {
-    let _url = this.path.replace(/\//g, "~");
-    _url = _url.replace("~transcription", "");
-    return `#/view/${_url}`;
+  public get versionNumber(): number {
+    if (this.version) {
+      return this.version.versionNumber;
+    } else {
+      return -1;
+    }
+  }
+
+  public get versionOverviewUrl(): string {
+    return `#/version/${this.versionNumber}`;
   }
 
   constructor(

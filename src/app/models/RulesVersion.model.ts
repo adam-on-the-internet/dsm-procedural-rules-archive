@@ -7,4 +7,5 @@ export interface RulesVersion {
   current?: boolean;
   future?: boolean;
   missingInfo?: boolean;
+  researchInProgress?: boolean;
 }

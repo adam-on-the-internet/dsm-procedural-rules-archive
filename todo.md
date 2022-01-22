@@ -8,4 +8,5 @@
     - v14
     - v13
     - v12
+- "Extended" features.
 - get version listing from assets or db, not from Constants?

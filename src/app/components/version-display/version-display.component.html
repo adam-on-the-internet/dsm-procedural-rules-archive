@@ -28,7 +28,14 @@
     </div>
     <div class="col-md-12" *ngIf="!version.showNotes">
       <div class="alert alert-warning">
-        Sorry, we haven't finished our work on version {{version.versionNumber}} yet!
+        Sorry, notes for version {{version.versionNumber}} are not yet available.
+        Check back later for more information.
+      </div>
+    </div>
+    <div class="col-md-12" *ngIf="version.researchInProgress">
+      <div class="alert alert-info">
+        We're still researching version {{version.versionNumber}}.
+        Check back later for more information.
       </div>
     </div>
     <div class="col-md-12" *ngIf="version.showNotes">
