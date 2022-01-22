@@ -27,7 +27,7 @@ seemingly to fix an earlier mistake from past amendments.
 
 [Roll Call for 13-1484](assets/rules-archive/2013_09_23/roll_call.pdf)
 
-## Notes
+## Details
 
 Amended rule 42A.
 

@@ -33,7 +33,7 @@ Rule 37. Action on Consent Agenda was amended as follows:
 
 [Roll Call for 21-0944](assets/rules-archive/2021_06_28/roll_call.pdf)
 
-## Notes
+## Details
 
 Amended rule 37.
 

@@ -32,7 +32,7 @@ Council amended Rule 30. Remarks of Citizens to be Germane as follows:
 
 [Roll Call for 21-0662](assets/rules-archive/2021_05_10/roll_call.pdf)
 
-## Notes
+## Details
 
 Amended rule 16 and rule 30.
 

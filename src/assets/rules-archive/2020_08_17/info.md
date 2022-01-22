@@ -34,7 +34,7 @@ Council amended Rule 30. Remarks of Citizens to be Germane.
 
 [Roll Call for 20-1300](assets/rules-archive/2020_08_17/roll_call.pdf)
 
-## Notes
+## Details
 
 Amended rule 5, rule 16, rule 20, rule 28, rule 29, rule 30, rule 31, rule 37, rule 41, rule 43, and rule 46.
 

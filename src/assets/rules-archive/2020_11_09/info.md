@@ -26,7 +26,7 @@ Council amended Rule 12. Extra Items as follows:
 
 [Roll Call for 20-1738](assets/rules-archive/2020_11_09/roll_call.pdf)
 
-## Notes
+## Details
 
 Amended rule 11 and rule 12.
 

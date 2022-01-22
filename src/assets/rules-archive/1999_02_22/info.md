@@ -13,7 +13,7 @@ The City eliminated **Rule 34. No Motions by Presiding Officer**.
 
 The City discussed, but did not amend, **Rule 32. Motion Required**.
 
-## Notes
+## Details
 
 One rule affected:
 

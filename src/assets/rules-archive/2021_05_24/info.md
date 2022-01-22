@@ -32,7 +32,7 @@ Rule 42. Motions was amended as follows:
 
 [Roll Call for 21-0796](assets/rules-archive/2021_05_24/roll_call.pdf)
 
-## Notes
+## Details
 
 Amended rule 5 and rule 42.
 
