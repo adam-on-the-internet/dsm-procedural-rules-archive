@@ -8,8 +8,6 @@ import {SettingsService} from "../../../services/general/settings.service";
   styleUrls: ["./dashboard.component.css"]
 })
 export class DashboardComponent {
-  public dashboardMarkdownPath = `assets/current-rules.md`;
-
   constructor(
     private navHelper: NavHelperService,
     private settings: SettingsService,

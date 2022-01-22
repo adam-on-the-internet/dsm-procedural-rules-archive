@@ -5,4 +5,5 @@ import {Injectable} from "@angular/core";
 })
 export class SettingsService {
   public showNav = true;
+  public currentVersionNumber = 17;
 }
