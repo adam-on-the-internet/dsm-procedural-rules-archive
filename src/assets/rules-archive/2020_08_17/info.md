@@ -2,7 +2,7 @@
 
 - Version #12
 - Active from August 17, 2020 to May 10, 2021 
-- Documents
+- Documents:
     - [Transcription of Rules](#/view/rules-archive~2020_08_17~transcription)
     - [Amendment Text](#/view/rules-archive~2020_08_17~amendment)
     - [Agenda for August 17, 2020](assets/rules-archive/2020_08_17/agenda.pdf)

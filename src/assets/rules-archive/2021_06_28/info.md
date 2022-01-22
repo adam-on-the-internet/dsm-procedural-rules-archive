@@ -2,7 +2,7 @@
 
 - Version #16
 - Active from June 28, 2021 to October 18, 2021
-- Documents
+- Documents:
     - [PDF Copy of Rules](assets/rules-archive/2021_06_28/copy.pdf)
     - [Transcription of Rules](#/view/rules-archive~2021_06_28~transcription)
     - [Amendment Text](#/view/rules-archive~2021_06_28~amendment)

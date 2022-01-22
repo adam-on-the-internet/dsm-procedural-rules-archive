@@ -2,7 +2,7 @@
 
 - Version #9
 - Active from February 22, 1999 to May 9, 2005 
-- Documents
+- Documents:
     - [Meeting Minutes for February 22, 1999](assets/rules-archive/1999_02_22/meeting_minutes.pdf)
 
 ## Summary

@@ -1,18 +1,23 @@
 <ng-container>
   <div class="row my-3">
-    <div class="col-md-12">
-      <div class="pull-right">
-        <a class="btn btn-secondary btn-sm mx-2" href="/#/version/{{version.versionNumber - 1}}"
-           [class.disabled]="!previousIsAvailable">
-          <i class="fa fa-arrow-left"></i>
-          Previous Version
-        </a>
-        <a class="btn btn-secondary btn-sm mx-2 disabled" href="/#/version/{{version.versionNumber + 1}}"
-           [class.disabled]="!nextIsAvailable">
-          Next Version
-          <i class="fa fa-arrow-right"></i>
-        </a>
-      </div>
+    <div class="col-md-12 mb-3">
+      <section id="version-nav">
+
+        <div class="pull-left">
+          <a class="btn btn-secondary btn-sm mx-2" href="/#/version/{{version.versionNumber - 1}}"
+             [class.disabled]="!previousIsAvailable">
+            <i class="fa fa-arrow-left"></i>
+            Previous Version
+          </a>
+        </div>
+        <div class="pull-right">
+          <a class="btn btn-secondary btn-sm mx-2 disabled" href="/#/version/{{version.versionNumber + 1}}"
+             [class.disabled]="!nextIsAvailable">
+            Next Version
+            <i class="fa fa-arrow-right"></i>
+          </a>
+        </div>
+      </section>
     </div>
     <div class="col-md-12">
       <h2>

@@ -2,7 +2,7 @@
 
 - Version #10
 - Active from May 9, 2005 to September 23, 2013 
-- Documents
+- Documents:
     - [Meeting Minutes for May 9, 2005](assets/rules-archive/2005_05_09/meeting_minutes.pdf)
     - [Agenda for May 9, 2005](assets/rules-archive/2005_05_09/agenda.pdf)
     - [Resolution from 2013 with Notes about Rule 42A](assets/rules-archive/2013_09_23/resolution.pdf)

@@ -2,7 +2,7 @@
 
 - Version #8
 - Active from November 16, 1998 to February 22, 1999
-- Documents
+- Documents:
     - [Meeting Minutes for November 16, 1998](assets/rules-archive/1998_11_16/meeting_minutes.pdf)
     
 ## Summary

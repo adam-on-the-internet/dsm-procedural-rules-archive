@@ -2,7 +2,7 @@
 
 - Version #7
 - Active from January 2, 1996 to November 16, 1998 
-- Documents
+- Documents:
     - [Meeting Minutes for January 2, 1996](assets/rules-archive/1996_01_02/meeting_minutes.pdf)
 
 ## Summary

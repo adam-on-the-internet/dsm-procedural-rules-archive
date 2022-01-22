@@ -2,7 +2,7 @@
 
 - Version #11
 - Active from September 23, 2013 to August 17, 2020 
-- Documents
+- Documents:
     - [PDF Copy of Rules](assets/rules-archive/2013_09_23/copy.pdf)
     - [Transcription of Rules](#/view/rules-archive~2013_09_23~transcription)
     - [Amendment Text](#/view/rules-archive~2013_09_23~amendment)

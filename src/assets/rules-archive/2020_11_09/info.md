@@ -2,7 +2,7 @@
 
 - Version #13
 - Active from November 9, 2020 to May 10, 2021
-- Documents
+- Documents:
     - [Transcription of Rules](#/view/rules-archive~2020_11_09~transcription)
     - [Amendment Text](#/view/rules-archive~2020_11_09~amendment)
     - [Agenda for November 9, 2020](assets/rules-archive/2020_11_09/agenda.pdf)

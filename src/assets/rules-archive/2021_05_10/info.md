@@ -2,7 +2,7 @@
 
 - Version #14
 - Active from May 10, 2021 to May 24, 2021 
-- Documents
+- Documents:
     - [Transcription of Rules](#/view/rules-archive~2021_05_10~transcription)
     - [Amendment Text](#/view/rules-archive~2021_05_10~amendment)
     - [Agenda for May 10, 2021](assets/rules-archive/2021_05_10/agenda.pdf)

@@ -1,32 +1,28 @@
-# V17: Stating Address Not Required to Speak
+# Stating Address Not Required to Speak
 
-October 18, 2021 - Present 
+- Version #17
+- Active from October 18, 2021 to Present
+- Documents:
+    - [PDF Copy of Rules](assets/rules-archive/2021_10_18/copy.pdf)
+    - [Transcription of Rules](#/view/rules-archive~2021_10_18~transcription)
+    - [Amendment Text](#/view/rules-archive~2021_10_18~amendment)
+    - [Agenda for October 18, 2021](assets/rules-archive/2021_10_18/agenda.pdf)
+    - [Resolution for Item I](assets/rules-archive/2021_10_18/resolution.pdf)
+    - [Roll Call for 21-1530](assets/rules-archive/2021_10_18/roll_call.pdf)
 
 ## Summary
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae enim ipsa nulla quo. A ab blanditiis laboriosam necessitatibus nemo placeat? 
 
-Rule 28. Manner of Addressing Council was amended as follows:
+**Rule 28. Manner of Addressing Council** was amended as follows:
 
 - Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad consequatur eum nam necessitatibus odio. Deserunt? 
     
-## Documents
-
-[PDF Copy of Rules](assets/rules-archive/2021_10_18/copy.pdf)
-
-[Transcription of Rules](#/view/rules-archive~2021_10_18~transcription)
-
-[Amendment Text](#/view/rules-archive~2021_10_18~amendment)
-
-[Agenda for October 18, 2021](assets/rules-archive/2021_10_18/agenda.pdf)
-
-[Resolution for Item I](assets/rules-archive/2021_10_18/resolution.pdf)
-
-[Roll Call for 21-1530](assets/rules-archive/2021_10_18/roll_call.pdf)
-
 ## Details
 
-Amended rule 28.
+One rule affected:
+
+- Amended **Rule 28. Manner of Addressing Council**
 
 Amended at the meeting on October 18, 2021 as item I (not on the Consent Agenda).
 
