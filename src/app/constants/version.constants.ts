@@ -19,6 +19,7 @@ export const RULES_VERSIONS: RulesVersion[] = [
     researchInProgress: true,
     appendixAvailable: true,
     transcriptAvailable: true,
+    amendmentAvailable: true,
   },
   {
     versionNumber: 16,

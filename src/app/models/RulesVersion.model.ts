@@ -10,4 +10,5 @@ export interface RulesVersion {
   researchInProgress?: boolean;
   transcriptAvailable?: boolean;
   appendixAvailable?: boolean;
+  amendmentAvailable?: boolean;
 }

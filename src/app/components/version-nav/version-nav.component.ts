@@ -21,6 +21,10 @@ export class VersionNavComponent {
     return `/#/view/rules-archive~${this.datePiece}~transcription`;
   }
 
+  public get versionAmendmentUrl(): string {
+    return `/#/view/rules-archive~${this.datePiece}~amendment`;
+  }
+
   public get versionAppendixUrl(): string {
     return `/#/view/rules-archive~${this.datePiece}~appendix`;
   }
