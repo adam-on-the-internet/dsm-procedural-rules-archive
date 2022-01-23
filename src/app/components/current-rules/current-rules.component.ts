@@ -1,6 +1,6 @@
 import {Component} from '@angular/core';
 import {RulesVersion} from "../../models/RulesVersion.model";
-import {RULES_VERSIONS} from "../../constants/version.constants";
+import {VersionService} from "../../services/version.service";
 
 @Component({
   selector: 'app-current-rules',
@@ -11,8 +11,11 @@ export class CurrentRulesComponent {
   public currentRulesMarkdownPath = `assets/current-rules.md`;
 
   public get currentVersion(): RulesVersion {
-    return RULES_VERSIONS.find((version) => {
-      return version.current;
-    });
+    return this.versionService.currentVersion;
+  }
+
+  constructor(
+    private versionService: VersionService
+  ) {
   }
 }

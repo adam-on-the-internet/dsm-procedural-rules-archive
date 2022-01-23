@@ -1,7 +1,7 @@
 import {Component, OnInit} from '@angular/core';
 import {ActivatedRoute, NavigationEnd, Router} from "@angular/router";
 import {RulesVersion} from "../../models/RulesVersion.model";
-import {RULES_VERSIONS} from "../../constants/version.constants";
+import {VersionService} from "../../services/version.service";
 
 @Component({
   selector: 'app-rules-version',
@@ -12,9 +12,7 @@ export class RulesVersionComponent implements OnInit {
   public versionNumber: number = null;
 
   public get version(): RulesVersion {
-    return RULES_VERSIONS.find((version) => {
-      return version.versionNumber === this.versionNumber;
-    });
+    return this.versionService.getVersionByNumber(this.versionNumber);
   }
 
   public get versionFound(): boolean {
@@ -26,6 +24,7 @@ export class RulesVersionComponent implements OnInit {
   }
 
   constructor(
+    private versionService: VersionService,
     private route: ActivatedRoute,
     private router: Router,
   ) {

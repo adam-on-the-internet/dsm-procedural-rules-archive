@@ -1,6 +1,6 @@
 import {Component} from '@angular/core';
-import {RULES_VERSIONS} from "../../constants/version.constants";
 import {RulesVersion} from "../../models/RulesVersion.model";
+import {VersionService} from "../../services/version.service";
 
 @Component({
   selector: 'app-rules-versions',
@@ -8,5 +8,12 @@ import {RulesVersion} from "../../models/RulesVersion.model";
   styleUrls: ['./rules-versions.component.css']
 })
 export class RulesVersionsComponent {
-  public VERSIONS: RulesVersion[] = RULES_VERSIONS;
+  public get allVersions(): RulesVersion[] {
+    return this.versionService.allVersions;
+  };
+
+  constructor(
+    private versionService: VersionService,
+  ) {
+  }
 }

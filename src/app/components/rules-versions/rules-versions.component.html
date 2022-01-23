@@ -46,7 +46,7 @@
     </div>
     <div class="col-md-8">
       <ul class="list-group">
-        <ng-container *ngFor="let version of VERSIONS">
+        <ng-container *ngFor="let version of allVersions">
           <a href="/#/version/{{version.versionNumber}}">
             <li class="list-group-item">
               <app-version-title [version]="version">

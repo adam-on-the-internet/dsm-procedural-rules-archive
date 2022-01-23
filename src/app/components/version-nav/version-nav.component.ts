@@ -1,6 +1,6 @@
 import {Component, Input} from '@angular/core';
-import {RULES_VERSIONS} from "../../constants/version.constants";
 import {StringHelper} from "../../utilities/string.util";
+import {VersionService} from "../../services/version.service";
 
 @Component({
   selector: 'app-version-nav',
@@ -53,13 +53,12 @@ export class VersionNavComponent {
   }
 
   private get maxVersion(): number {
-    let maxVersion = 1;
-    RULES_VERSIONS.forEach((version) => {
-      if (version.versionNumber > maxVersion) {
-        maxVersion = version.versionNumber;
-      }
-    });
-    return maxVersion;
+    return this.versionService.maxVersion;
+  }
+
+  constructor(
+    private versionService: VersionService,
+  ) {
   }
 
   private getVersionOverviewUrl(versionNumber: number) {

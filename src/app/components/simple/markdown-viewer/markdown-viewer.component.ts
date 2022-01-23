@@ -1,7 +1,7 @@
 import {Component, OnInit} from "@angular/core";
 import {ActivatedRoute, NavigationEnd, Router} from "@angular/router";
-import {RULES_VERSIONS} from "../../../constants/version.constants";
 import {RulesVersion} from "../../../models/RulesVersion.model";
+import {VersionService} from "../../../services/version.service";
 
 @Component({
   selector: "app-markdown-viewer",
@@ -30,10 +30,7 @@ export class MarkdownViewerComponent implements OnInit {
     const day = Number(datePieces[2]);
     const month = Number(datePieces[1]);
     const year = Number(datePieces[0]);
-    return RULES_VERSIONS.find((version) => {
-      return version.amendmentDay === day && version.amendmentMonth === month &&
-        version.amendmentYear === year;
-    });
+    return this.versionService.getVersionByDayMonthYear(day, month, year);
   }
 
   public get versionNumber(): number {
@@ -45,6 +42,7 @@ export class MarkdownViewerComponent implements OnInit {
   }
 
   constructor(
+    private versionService: VersionService,
     private route: ActivatedRoute,
     private router: Router,
   ) {
