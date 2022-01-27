@@ -1,8 +1,7 @@
 # TODO
 
 - Week 1: 1/24
-    - publish v18
-    - update v17 to reflect end
+    - context for v18
 - Week 2: 1/31
     - context for v17
 - Week 3: 2/7
@@ -21,4 +20,3 @@
         - Get version listing from assets or db, not from Constants?
         - Collab to take more comments on rule change context?
         - Other ideas?
-        - Link to city rules page
