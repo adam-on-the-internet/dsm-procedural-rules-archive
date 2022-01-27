@@ -26,7 +26,7 @@ We're still researching to develop a summary for this item.
 
 10 rule(s) affected:
 
-- Amended **Rule 16. Citizen Agenda Requests (renamed: Des Moines Residents, Property Owners and City Taxpayers Request to Speak)**
+- Amended **Rule 16. Citizen Agenda Requests (renamed: Des Moines Residents, Property Owners and City Taxpayers Requests to Speak)**
 - Amended **Rule 28. Manner of Addressing Council**
 - Amended **Rule 31. Matters Not on the Agenda**
 - Amended **Rule 32. Motion Required**

@@ -5,7 +5,7 @@
 - Transcribed by adding the amendments from [Rules as of January 24, 2022](assets/rules-archive/2022_01_24/copy.pdf) 
 to [the previous transcription](#/view/rules-archive~2021_10_18~transcription)
 - 10 rule(s) affected, 20% of the 50 total rules:
-    - Amended **Rule 16. Citizen Agenda Requests (renamed: Des Moines Residents, Property Owners and City Taxpayers Request to Speak)**
+    - Amended **Rule 16. Citizen Agenda Requests (renamed: Des Moines Residents, Property Owners and City Taxpayers Requests to Speak)**
     - Amended **Rule 28. Manner of Addressing Council**
     - Amended **Rule 31. Matters Not on the Agenda**
     - Amended **Rule 32. Motion Required**
@@ -36,7 +36,7 @@ to [the previous transcription](#/view/rules-archive~2021_10_18~transcription)
     * Rule 13. Sponsor Required
     * Rule 14. Staff Withdrawal of Items
     * Rule 15. Council Action to Defer, Continue or Not Act
-    * Rule 16. Des Moines Residents, Property Owners and City Taxpayers Request to Speak
+    * Rule 16. Des Moines Residents, Property Owners and City Taxpayers Requests to Speak
 * Part IV. Conduct of Meetings
     * Rule 17. Roll Call
     * Rule 18. Call to Order
@@ -216,7 +216,7 @@ wishing Council to defer action or continue an item has a right to
 have a motion to continue, defer or not act on any item considered
 before any other action which Council may consider.
 
-### Rule 16. Citizen Agenda Requests
+### Rule 16. Des Moines Residents, Property Owners and City Taxpayers Requests to Speak
 
 ~ Sorry, we're still researching this change. ~
 
