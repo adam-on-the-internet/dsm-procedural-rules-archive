@@ -1,7 +1,7 @@
 # Stating Address Not Required to Speak
 
 - Version #17
-- Active from October 18, 2021 to Present
+- Active from October 18, 2021 to January 24, 2022
 - Key Documents:
     - [Rules Version: Transcription](#/view/rules-archive~2021_10_18~transcription)
     - [Rules Version: PDF Copy](assets/rules-archive/2021_10_18/copy.pdf)
