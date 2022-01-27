@@ -229,7 +229,7 @@ in duration.
 Each item shall receive up to two minutes
 time and shall not be recalculated or additional speakers
 recognized if the time used by any speaker is less than two minutes
-or the collective time for all speakers is less than forty-minutes.
+or the collective time for all speakers is less than forty minutes.
 
 No other person may speak on any such item. Any requested item not included
 on the agenda due to the collective time limit and maximum number of items
