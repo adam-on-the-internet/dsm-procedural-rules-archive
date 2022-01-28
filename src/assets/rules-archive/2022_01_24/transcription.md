@@ -219,7 +219,7 @@ before any other action which Council may consider.
 ### Rule 16. Des Moines Residents, Property Owners and City Taxpayers Requests to Speak
 
 Any 
-City resident, property owner or taxpayer*
+City resident, property owner or taxpayer
 may request to 
 speak on a regular Agenda
 by filing such request in writing with the City Clerk

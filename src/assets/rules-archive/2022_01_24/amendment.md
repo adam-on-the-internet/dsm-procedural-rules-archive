@@ -96,7 +96,7 @@ shall not accept a new request from a person that has a request pending.
 ### After
 
 Any 
-City resident, property owner or taxpayer*
+City resident, property owner or taxpayer
 may request to 
 speak on a regular Agenda
 by filing such request in writing with the City Clerk
