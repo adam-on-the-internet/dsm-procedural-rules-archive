@@ -1,4 +1,4 @@
-# Stating Address Not Required to Speak
+# Stating Ward Instead of Address
 
 - Version #17
 - Active from October 18, 2021 to January 24, 2022
@@ -13,7 +13,21 @@
 
 ## Summary
 
-We're still researching to develop a summary for this item.
+In previous meetings, the Des Moines City Council inconsistently required speakers to provide their 
+residential address before speaking in accordance with a long-standing rule. 
+This was challenged by members of the public
+as a safety concern for speakers
+(especially domestic violence survivors), 
+as an exlusionary concern for people without addresses (such as houseless folks), 
+as a free speech concern (the requirement makes people more hesitant to speak),
+and as a broadly discriminatory concern (since this requirement was applied inconsistently).
+
+After a few meetings where the public directly challenged this requirement when speakers chose not to speak
+rather than state their address publicly, the Council made this rule change. 
+This rule change allows folks to say their Ward and ZIP Code rather than their full address, 
+as long as the City had previously verified their address (the process for this was unclear).
+
+This was a positive step, though requiring address verification still excludes houseless folks.
 
 ## Details
 
