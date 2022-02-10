@@ -17,6 +17,7 @@
     - [DM Register: Des Moines' newest City Council member discouraged by new procedural rules for meetings: 'It's disappointing'](https://www.desmoinesregister.com/story/news/local/des-moines/2022/01/25/des-moines-city-council-members-new-rules-extremely-defeating-indira-sheumaker-says/9200639002/)
     - [DM Register: Editorial: Des Moines City Council should be embarrassed by its insulting move to silence Indira Sheumaker](https://www.desmoinesregister.com/story/opinion/editorials/2022/01/24/des-moines-city-council-back-off-insulting-rules-indira-sheumaker-frank-cownie-elected-officials/6635946001/)
     - [DM Register: Rekha Basu: Shame on the Des Moines City Council for scheming to silence its only progressive, Black member](https://www.desmoinesregister.com/story/opinion/columnists/rekha-basu/2022/01/25/des-moines-city-council-vote-aimed-only-black-member-indira-sheumaker/9210680002/)
+    - [DM Register: Des Moines' newest City Council member discouraged by new procedural rules for meetings: 'It's disappointing'](https://www.desmoinesregister.com/story/news/local/des-moines/2022/01/25/des-moines-city-council-members-new-rules-extremely-defeating-indira-sheumaker-says/9200639002/)
     
 ## Summary
 

@@ -9,6 +9,8 @@
     - [Meeting Agenda for May 10, 2021](assets/rules-archive/2021_05_10/agenda.pdf)
     - [Resolution for Item I](assets/rules-archive/2021_05_10/resolution.pdf)
     - [Roll Call 21-0662](assets/rules-archive/2021_05_10/roll_call.pdf)
+- Articles:
+    - [WHO-13: Des Moines City Council’s New Public Speaking Rules Draw Condemnation](https://who13.com/news/des-moines-city-councils-new-public-speaking-rules-draw-condemnation/)
 
 ## Summary
 
