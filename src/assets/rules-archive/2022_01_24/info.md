@@ -22,7 +22,27 @@
     
 ## Summary
 
-We're still researching to develop a summary for this item.
+Newly elected council member Indira Sheumaker was sworn in on January 10, 2022. 
+At the end of that day's Regular Council Meeting, referencing Rule 41, Indira brought up the ongoing 
+issues with Houseless in Des Moines which are made worse during the intense cold of the winter.
+Indira made a motion for a Special Meeting to address this issue, and Mayor Cownie obliged and 
+setup a special meeting for January 14, 2022. 
+
+(special meeting incident. adjourned. interrupted. motion not in minutes.)
+
+(proposed changes, amendment incidates indira prompted)
+
+(media attention, connie & cownie confirm indira prompted, editorial board)
+
+(at meeting, SWAT team called, COVID overflow used, CISS called?)
+
+(some changes withdrawn)
+
+(some changes passed)
+
+(peoples response, PTH)
+
+(media response)
 
 ## Details
 
