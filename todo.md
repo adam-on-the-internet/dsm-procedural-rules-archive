@@ -1,18 +1,18 @@
 # TODO
 
-- Week 2: 1/31
+- Week 2: 2/14
     - context for v18
-- Week 3: 2/7
+- Week 3: 2/21
     - context for v16
-- Week 4: 2/14
+- Week 4: 2/28
     - context for v15
-- Week 5: 2/21
+- Week 5: 3/7
     - context for v14
-- Week 6: 2/28
+- Week 6:
     - context for v13
-- Week 7: 3/7
+- Week 7:
     - context for v12
-- Week 8: 3/14
+- Week 8+:
     - Plans Beyond
         - Update readme
         - Get version listing from assets or db, not from Constants?
