@@ -1,9 +1,7 @@
 # TODO
 
-- Week 1: 1/24
-    - context for v18
 - Week 2: 1/31
-    X context for v17
+    - context for v18
 - Week 3: 2/7
     - context for v16
 - Week 4: 2/14

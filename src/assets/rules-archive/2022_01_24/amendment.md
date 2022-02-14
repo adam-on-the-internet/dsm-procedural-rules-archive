@@ -623,3 +623,126 @@ or may move waiver and suspension by reference to the language of
 this section to be known as "the waiver rule".
 Either motion shall require a second by a different Council Member or shall be
 considered to have failed.
+
+# Proposed Amendment Text
+
+These rule changes were initially proposed by Council along with the others, but were withdrawn before the amendments passed. 
+
+- [Resolution with Proposed Amendments](assets/rules-archive/2022_01_24/resolution.pdf)
+- [Rules after Amendments Passed](assets/rules-archive/2022_01_24/copy.pdf)
+
+## Rule 22. Discussion
+
+### Difference 
+
+A Council member shall 
+**not**
+speak 
+~~only after~~
+**until**
+being recognized by the presiding officer.
+
+**After such recognition, the**
+Council member recognized for a specific purpose shall limit remarks to that purpose
+**and to its merits**.
+
+A Council member, after being recognized shall 
+**address their remarks to the presiding officer, 
+maintain a courteous tone and avoid interjecting any personal note into debate
+and shall**
+not be interrupted except by
+**a point of order raised by another member, by a second motion pursuant to Rule 42, or by**
+the presiding officer to enforce these rules.
+
+### Before
+
+A Council member shall speak only after being recognized by the presiding officer.
+
+A Council member recognized for a specific purpose shall limit remarks to that purpose.
+
+A Council member, after being recognized shall not be interrupted except
+by the presiding officer to enforce these rules.
+
+### After
+
+A Council member shall 
+not
+speak 
+until
+being recognized by the presiding officer.
+
+After such recognition, the
+Council member recognized for a specific purpose shall limit remarks to that purpose
+and to its merits.
+
+A Council member, after being recognized shall 
+address their remarks to the presiding officer, 
+maintain a courteous tone and avoid interjecting any personal note into debate
+and shall
+not be interrupted except by
+a point of order raised by another member, by a second motion pursuant to Rule 42, or by
+the presiding officer to enforce these rules.
+
+## Rule 24. Limit on Remarks
+
+### Difference 
+
+Each Council member shall limit his or her remarks to a reasonable length
+**, but in no event longer than five minutes without leave of the presiding officer,
+who may also shorten the time referenced in this rule at the presiding officer's discretion**
+.
+
+### Before
+
+Each Council member shall limit his or her remarks to a reasonable length.
+
+### After
+
+Each Council member shall limit his or her remarks to a reasonable length, 
+but in no event longer than five minutes without leave of the presiding officer,
+who may also shorten the time referenced in this rule at the presiding officer's discretion.
+
+## Rule 29. Time Limit on Citizen's Remarks (renamed: Time Limit on Des Moines Residents, Property Owners and City Taxpayers' Remarks)
+
+### Difference 
+
+~~Citizens~~
+**Des Moines residents, property owners and city taxpayers**
+shall be limited to no more than 
+~~five~~
+**three** 
+minutes
+speaking time per Agenda item
+on which the public is allowed to speak, unless additional or less
+time is determined by the presiding officer.
+ 
+Total citizen in-put on any subject under Council consideration can be further
+limited to a fixed period by the presiding officer
+**, but should not exceed fifteen minutes unless varied by the presiding officer**.
+A majority vote of the Council may alter the time limitations of this rule.
+
+### Before
+
+Citizens shall be limited to no more than five minutes
+speaking time per Agenda item
+on which the public is allowed to speak, unless additional or less
+time is determined by the presiding officer. 
+
+Total citizen in-put on any subject under Council consideration can be further
+limited to a fixed period by the presiding officer.
+A majority vote of the Council may alter the time limitations of this rule.
+
+### After
+
+Des Moines residents, property owners and city taxpayers
+shall be limited to no more than 
+three
+minutes
+speaking time per Agenda item
+on which the public is allowed to speak, unless additional or less
+time is determined by the presiding officer.
+ 
+Total citizen in-put on any subject under Council consideration can be further
+limited to a fixed period by the presiding officer, 
+but should not exceed fifteen minutes unless varied by the presiding officer.
+A majority vote of the Council may alter the time limitations of this rule.

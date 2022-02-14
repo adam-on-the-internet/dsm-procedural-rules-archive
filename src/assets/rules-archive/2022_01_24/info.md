@@ -11,13 +11,14 @@
     - [Meeting Agenda for January 24, 2022](assets/rules-archive/2022_01_24/agenda.pdf)
     - [Resolution for Item I](assets/rules-archive/2022_01_24/resolution.pdf)
     - [Roll Call 22-0078](assets/rules-archive/2022_01_24/roll_call.pdf)
-- Articles: 
+- Articles & More: 
     - [DM Register: Proposed Des Moines City Council rules would limit council member actions, public requests](https://www.desmoinesregister.com/story/news/local/des-moines/2022/01/24/des-moines-council-reconsiders-meeting-rules-public-request-consent-agenda/6621972001/)
     - [DM Register: Des Moines City Council OKs rules limiting council members' actions, public requests](https://www.desmoinesregister.com/story/news/local/des-moines/2022/01/25/des-moines-city-council-oks-meeting-rule-changes-despite-objections-indira-sheumaker-frank-cownie/9199484002/)
     - [DM Register: Des Moines' newest City Council member discouraged by new procedural rules for meetings: 'It's disappointing'](https://www.desmoinesregister.com/story/news/local/des-moines/2022/01/25/des-moines-city-council-members-new-rules-extremely-defeating-indira-sheumaker-says/9200639002/)
     - [DM Register: Editorial: Des Moines City Council should be embarrassed by its insulting move to silence Indira Sheumaker](https://www.desmoinesregister.com/story/opinion/editorials/2022/01/24/des-moines-city-council-back-off-insulting-rules-indira-sheumaker-frank-cownie-elected-officials/6635946001/)
     - [DM Register: Rekha Basu: Shame on the Des Moines City Council for scheming to silence its only progressive, Black member](https://www.desmoinesregister.com/story/opinion/columnists/rekha-basu/2022/01/25/des-moines-city-council-vote-aimed-only-black-member-indira-sheumaker/9210680002/)
     - [DM Register: Des Moines' newest City Council member discouraged by new procedural rules for meetings: 'It's disappointing'](https://www.desmoinesregister.com/story/news/local/des-moines/2022/01/25/des-moines-city-council-members-new-rules-extremely-defeating-indira-sheumaker-says/9200639002/)
+    - [Twitter Thread on the Proposed Changes](https://twitter.com/CallananAdam/status/1484753824392880131?s=20&t=gytGGeQE9IpoBQf905KCpQ)
     
 ## Summary
 
