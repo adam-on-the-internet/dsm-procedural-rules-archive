@@ -19,3 +19,7 @@
         - Collab to take more comments on rule change context?
         - v11 to v1?
         - Other ideas?
+        - Rule changes also include:
+            - enforcement (and how it changes, is selected)
+            - stuff beyond code (banning people, threats, muting)
+            - city hall changes (no water, metal detectors, private security)
