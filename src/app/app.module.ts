@@ -25,7 +25,6 @@ import {StringListInputComponent} from "./components/simple/form/string-list-inp
 import {StringListDisplayComponent} from "./components/simple/string-list-display/string-list-display.component";
 import {LinkListComponent} from "./components/simple/link-list/link-list.component";
 import {LinkDisplayComponent} from "./components/simple/link-display/link-display.component";
-import {QuillModule} from "ngx-quill";
 import {ModalTriggerButtonComponent} from "./components/simple/modal-trigger-button/modal-trigger-button.component";
 import {ModalBoxBasicComponent} from "./components/simple/modal-box-basic/modal-box-basic.component";
 import {MarkdownViewerComponent} from "./components/simple/markdown-viewer/markdown-viewer.component";
@@ -93,7 +92,6 @@ export function markedOptionsFactory(): MarkedOptions {
     AppRoutingModule,
     HttpClientModule,
     FormsModule,
-    QuillModule.forRoot(),
     MarkdownModule.forRoot({
       loader: HttpClient,
       markedOptions: {
