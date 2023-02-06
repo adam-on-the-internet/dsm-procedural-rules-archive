@@ -24,6 +24,7 @@ If
 the requesting Council Member, 
 ~~approval by the other for inclusion on the Agenda shall be sufficient for the purposes of this rule.~~
 **the item shall be included on the Agenda without needing other Council Member recommendation.**
+
 If 
 ~~the Mayor and Mayor Pro Tem decline to include~~ 
 **a majority of the Council decline to recommend including**         
