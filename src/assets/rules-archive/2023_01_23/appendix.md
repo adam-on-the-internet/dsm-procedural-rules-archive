@@ -54,6 +54,9 @@ Roll Call No. 21-1530
 #### AMENDED: January 24, 2022
 Roll Call No. 22-0078
 
+#### AMENDED: January 23, 2023
+Roll Call No. 23-0081
+
 ---
 
 ## Appendix B - Attachment: Electronic Meetings

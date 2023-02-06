@@ -1,20 +1,11 @@
 # PROCEDURAL RULES OF DES MOINES CITY COUNCIL 
 
-- Version 18
-- As of amendments made on January 24, 2022
-- Transcribed by adding the amendments from [Rules as of January 24, 2022](assets/rules-archive/2022_01_24/copy.pdf) 
-to [the previous transcription](#/view/rules-archive~2021_10_18~transcription)
-- 10 rule(s) affected, 20% of the 50 total rules:
-    - Amended **Rule 16. Citizen Agenda Requests (renamed: Des Moines Residents, Property Owners and City Taxpayers Requests to Speak)**
-    - Amended **Rule 28. Manner of Addressing Council**
-    - Amended **Rule 31. Matters Not on the Agenda**
-    - Amended **Rule 32. Motion Required**
-    - Amended **Rule 33. Motion to Reconsider**
-    - Amended **Rule 37. Action on Consent Agenda**
-    - Amended **Rule 40. Recording Names of Moving Members**
-    - Amended **Rule 41. Consideration of Matters Not on Agenda**
-    - Amended **Rule 42. Motions**
-    - Amended **Rule 42A. Waiver of Ordinance Readings**
+- Version 19
+- As of amendments made on January 23, 2023
+- Transcribed by adding the amendments from [Rules as of January 23, 2023](assets/rules-archive/2023_01_23/copy.pdf) 
+to [the previous transcription](#/view/rules-archive~2022_01_24~transcription)
+- 1 rule(s) affected:
+    - Amended **Rule 11. Agenda Deadline**
     
 ## Contents
 
@@ -164,19 +155,24 @@ hearings and separate listing of requests for Permits and Licenses.
 
 ### Rule 11. Agenda Deadline
 
-Any member of the Council, the City Manager, Corporation Counsel
-and City Clerk may have an item included upon the Agenda by requesting
-the City Clerk to include the item by 5:00 P.M. on the Wednesday preceding
-the Council meeting.
+Any member of the Council, the City Manager, Corporation Counsel and City Clerk 
+may have an item included upon the Agenda 
+by requesting the City Clerk to include the item by 5:00 P.M. 
+on the Tuesday preceding the Council meeting.
 
-If the item is requested by a Council Member, it shall be approved by the Mayor and Mayor Pro Tem
-prior to inclusion on the Agenda. If either the Mayor or Mayor Pro Tem are the requesting
-Council Member, approval by the other for inclusion on the Agenda shall be sufficient for the purposes
-of this rule. If the Mayor and Mayor Pro Tem decline to include the requested item at the
-meeting at which it is first requested, then after that meeting occurs, the requesting Council Member may 
-make a second request for inclusion on the Agenda for the next regular meeting. If the item is 
-again declined by the Mayor and Mayor Pro Tem, the item shall be placed on the Agenda to be considered
-by the full council for inclusion at the next Council Workshop or other disposition as directed by Council.
+If the item is requested by a Council Member, 
+it shall first be recommended for inclusion to the City Manager by a majority of the Council prior to inclusion on the Agenda, 
+otherwise it shall not be included. 
+If the Mayor is the requesting Council Member, the item shall be included on the Agenda without needing other Council Member recommendation.
+If a majority of the Council decline to recommend including the requested item at the meeting at which it is first requested, 
+then after that meeting occurs,
+the requesting Council Member may make a second request for inclusion 
+on the Agenda for the next regular meeting.
+
+If the item is again not recommended for inclusion on the Agenda by a majority of the Council,
+the item shall not be placed on the Agenda to be considered by the full council until at least
+four council members have indicated a desire to the City Manager for it to be placed on
+the Agenda for Council review or inclusion of the proposed item at a future Council Workshop.
 
 ### Rule 12. Extra Items
 

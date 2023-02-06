@@ -2,11 +2,22 @@ import {RulesVersion} from "../models/RulesVersion.model";
 
 export const RULES_VERSIONS: RulesVersion[] = [
   {
+    versionNumber: 19,
+    amendmentDay: 23,
+    amendmentMonth: 1,
+    amendmentYear: 2023,
+    current: true,
+    showNotes: true,
+    researchInProgress: true,
+    transcriptAvailable: true,
+    amendmentAvailable: true,
+  },
+  {
     versionNumber: 18,
     amendmentDay: 24,
     amendmentMonth: 1,
     amendmentYear: 2022,
-    current: true,
+    current: false,
     showNotes: true,
     researchInProgress: true,
     transcriptAvailable: true,

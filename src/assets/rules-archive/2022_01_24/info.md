@@ -1,7 +1,7 @@
 # Major Rule Rewrite in Retaliation to Indira's Election to Council
 
 - Version #18
-- Active from January 24, 2022 to Present
+- Active from January 24, 2022 to January 23, 2023
 - Documents:
 - Key Documents:
     - [Rules Version: Transcription](#/view/rules-archive~2022_01_24~transcription)

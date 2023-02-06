@@ -1,141 +1,84 @@
-# Major Rule Rewrite in Retaliation to Indira's Election to Council
+# Council Member Agenda Item Rule Change in Retaliation to Request for Abortion Protections
 
-- Version #18
-- Active from January 24, 2022 to Present
+- Version #19
+- Active from January 23, 2023 to Present
 - Documents:
 - Key Documents:
-    - [Rules Version: Transcription](#/view/rules-archive~2022_01_24~transcription)
-    - [Rules Version: PDF Copy](assets/rules-archive/2022_01_24/copy.pdf)
-    - [Rules Amendment Text](#/view/rules-archive~2022_01_24~amendment)
+    - [Rules Version: Transcription](#/view/rules-archive~2023_01_23~transcription)
+    - [Rules Version: PDF Copy](assets/rules-archive/2023_01_23/copy.pdf)
+    - [Rules Amendment Text](#/view/rules-archive~2023_01_23~amendment)
 - Other Documents:
-    - [Meeting Agenda for January 24, 2022](assets/rules-archive/2022_01_24/agenda.pdf)
-    - [Resolution for Item I](assets/rules-archive/2022_01_24/resolution.pdf)
-    - [Roll Call 22-0078](assets/rules-archive/2022_01_24/roll_call.pdf)
+    - [Meeting Agenda for January 23, 2023](assets/rules-archive/2023_01_23/agenda.pdf)
+    - [Resolution for Item I](assets/rules-archive/2023_01_23/resolution.pdf)
+    - [Roll Call 23-0081](assets/rules-archive/2023_01_23/roll_call.pdf)
 - Articles & More: 
-    - [DM Register: Proposed Des Moines City Council rules would limit council member actions, public requests](https://www.desmoinesregister.com/story/news/local/des-moines/2022/01/24/des-moines-council-reconsiders-meeting-rules-public-request-consent-agenda/6621972001/)
-    - [DM Register: Des Moines City Council OKs rules limiting council members' actions, public requests](https://www.desmoinesregister.com/story/news/local/des-moines/2022/01/25/des-moines-city-council-oks-meeting-rule-changes-despite-objections-indira-sheumaker-frank-cownie/9199484002/)
-    - [DM Register: Des Moines' newest City Council member discouraged by new procedural rules for meetings: 'It's disappointing'](https://www.desmoinesregister.com/story/news/local/des-moines/2022/01/25/des-moines-city-council-members-new-rules-extremely-defeating-indira-sheumaker-says/9200639002/)
-    - [DM Register: Editorial: Des Moines City Council should be embarrassed by its insulting move to silence Indira Sheumaker](https://www.desmoinesregister.com/story/opinion/editorials/2022/01/24/des-moines-city-council-back-off-insulting-rules-indira-sheumaker-frank-cownie-elected-officials/6635946001/)
-    - [DM Register: Rekha Basu: Shame on the Des Moines City Council for scheming to silence its only progressive, Black member](https://www.desmoinesregister.com/story/opinion/columnists/rekha-basu/2022/01/25/des-moines-city-council-vote-aimed-only-black-member-indira-sheumaker/9210680002/)
-    - [DM Register: Des Moines' newest City Council member discouraged by new procedural rules for meetings: 'It's disappointing'](https://www.desmoinesregister.com/story/news/local/des-moines/2022/01/25/des-moines-city-council-members-new-rules-extremely-defeating-indira-sheumaker-says/9200639002/)
-    - [Twitter Thread on the Proposed Changes](https://twitter.com/CallananAdam/status/1484753824392880131?s=20&t=gytGGeQE9IpoBQf905KCpQ)
+    - None currently available.
     
 ## Summary
 
-### Before the 1/24/22 Meeting
+Council severely limited the processes for Council Members to request items for addition on City Council Agendas.
 
-Newly elected council member Indira Sheumaker was sworn in on January 10, 2022. 
-At the end of that day's Regular Council Meeting Indira brought up the ongoing 
-issues with Houseless in Des Moines which are made worse during the intense cold of the winter (referencing Rule 41).
-Indira made a motion for a Special Meeting to address this issue, and Mayor Cownie obliged and 
-setup a special meeting for January 14, 2022. 
+The rule is overly complicated to the point of it being unclear to the public how the rule actually would operate.
 
-At the January 14, 2022 special meeting, Council Member Josh Mandelbaum arrived with a lengthy motion that
-did little to address the immediate issues with the intense cold and houseless folks, which 
-delayed further action to a meeting of the Homeless Coordinating Committee. 
-Indira talked through her concerns and suggested a 24 Hour Warming Center.
-She was cut off by other Council Members and a vote was called on Mandelbaum's motion.
+Additionally, the amended rule seems to violate Iowa Open Meetings Law by requiring a majority vote to accept or deny a Council Request outside of an Open Meeting.
 
-After Mandelbaum's motion passed, Indira called for a motion to open a 24 Hour Warming Center. 
-This motion was ignored by the presiding officer (the Mayor) and interrupted by Mandelbaum, who
-called to adjourn the meeting. Council did not take a clear public vote, and Indira did not vote 
-on the adjournment as she did not hear the call for a vote, but the meeting ended anyway.
-Indira's motion to open a 24 Hour Warming Center
-(which was spoken aloud twice in the meeting, clearly shown in the video's meeting) 
-was omitted form the official meeting minutes.
+From the city's own resolution text, this rule change is intended to allow the city to "arrange its Agenda to promote ... orderliness and efficiency", clearly stating that the city considers bringing an item up for discussion or vote before council has already made consensus is not orderly and efficient. This shows the city expects majority consensus entirely outside of council meetings, flaunting Iowa Open Meetings Law around majorities.
 
-The agenda for the next Des Moines City Council Meeting was released on Thursday, January 20, 2022, and made
-mention of proposed changed to the City's procedural rules. No attachment was included.
+The Rule Change was sponsored by Mayor Cownie and Mayor Pro Tem Boesen.
 
-Later, on Friday, January 2021, 2022 (shortly before the weekend) the City Clerk added an attachment with the 
-proposed rule changes ([Resolution for Item I](assets/rules-archive/2022_01_24/resolution.pdf)). The resolution 
-provides reasoning for the rule change by stating "to avoid confusion about motions and to clarify the record and the
-minutes required by state statute, a second should be added to any motion prior to a vote", which clearly references
-what happened during the January 14, 2022 meeting. This is crucial because Council Members would later claim the 
-rule changes were unrelated to the start of Indira's term. The City says that these rule changes were proposed by Council Member
-Connie Boesen.
+### Before the 1/23/23 Meeting
 
-As broken down in a [Twitter Thread on the Proposed Changes](https://twitter.com/CallananAdam/status/1484753824392880131?s=20&t=gytGGeQE9IpoBQf905KCpQ),
-these proposed changes affected around 26% of the rules, making it the largest rule change since as far back as we know (1996).
+At the October 3, 2022 Regular Meeting, DSM City Council had item 68-I for a Council Request of a Work Session Topic involving Abortion Protections.
+This came after Mandelbaum had pushed Council to consider such action around the overturning of Roe v Wade and anticipation of Iowa GOP criminalizing abortion.
 
-(TODO more on proposed changes)
+The Mayor (and others) had declined to allow this discussion at City Hall and, per Rule 11, had given Mandelbaum a final chance at discussion by requesting a work session topic at a regular meeting.
 
-On January 24, 2022, the Des Moines Register released an 
-[article](https://www.desmoinesregister.com/story/news/local/des-moines/2022/01/24/des-moines-council-reconsiders-meeting-rules-public-request-consent-agenda/6621972001/) 
-about the rule changes which stated that
-"Both Cownie and Boesen said the changes would also avoid an element of surprise 
-from other council members trying to push through new ideas", which serves as an admission from Mayor Cownie and 
-Council Member Boesen that these rule changes were targetted at Indira (though they would otherwise deny this).
-Around this time, Council Member Mandelbaum told a constituent that he could not "in good faith" claim that
-these rule changes were not targetted at Indira. Council Members otherwise claimed that these rule changes 
-were in the works for "years". 
-Even if true, that would not explain why they were not proposed until Indira's second Council Meeting.
-Also, it does not add up because the proposed rule change involved changes rules that had not existed
-until more recently.
+Item for reference: https://councildocs.dsm.city/resolutions/20221003/68i.pdf
 
-On January 24, 2022, the Des Moines Register Editorial Board wrote an Editorial 
-that ["Des Moines City Council should be embarassed by its insulting move to silence Indira Sheumaker"](https://www.desmoinesregister.com/story/opinion/editorials/2022/01/24/des-moines-city-council-back-off-insulting-rules-indira-sheumaker-frank-cownie-elected-officials/6635946001/),
-pleading the City Council to reverse course
-This is especially notable because the Register Editorial Board endorsed one of Indira's 
-challengers during the 2021 election she won.
+Prior to the 10/3/22 council meeting, council received many emails for and against action on this topic from Planned Parenthood advocates and Anti-Abortion activists.
 
-### At the 1/24/22 Meeting
+At the meeting, council members attacked Mandelbaum and refused to allow certain aspects of discussion of this item.
+Much of the discussion happened with euphisms (without actually referring to Abortion or the item in question).
 
-At the January 24, 2022 Des Moines City Council Meeting, the Metro STAR team (a regional SWAT team) was present.
-This team of 10+ cops is often used to counter protests, and is frequently used by City Manager Scott Sanders
-and Police Chief Dana Wingert to be present at Council Meetings and sometimes arrest members of the public.
-This is the first meeting they were present at since Indira won the election in November 2021.
+Mandelbaum's request was rejected and the vote was clearly rushed. People against Mandelbaum resorted widely to lies about his proposal itself, and the vote. 
+The proposal itself was very limited and the vote was about whether to consider discussing his proposal at a work session, not whether to implement his proposal.
+Council members claimed to want alternatives, but shot down any chance at alternatives by refusing to discuss alternatives at a work session.
 
-Additionally, the City instituted a capacity maximum for the meeting with a COVID overflow room. 
-While this was ostensibly for COVID (though the city 
-made no announcement asserting this) it was likely for the same reason they called the SWAT team,
-as the previous meetings and next meeting did not have a maximum capacity while the state of COVID was comparable.
-There were empty seats in the Council Chambers during the meeting, and Council Members and the public was not informed that
-there were people in the overflow room, meaning that anyone watching the video via video would assume the meeting
-was poorly attended.
+Planned Parenthood activists and Anti-Abortion activists were both present at this meeting, and City Manager Scott Sanders and Police Chief Dana Wingert brought the METRO STAR team (SWAT police) to the meeting as a result, closing off an accessible entrance to the building to accomodate the police.
 
-At the start of the meetings, some of the more egregious parts of the rule changes were withdrawn
-but the bulk of the changes were passed in a 6-1 vote (everyone but Indira Sheumaker voted to pass the changes).
+No public comment was allowed.
 
-(TODO more detail on passed changes)
+### At the 1/23/23 Meeting
 
-In response to this, members of the public took action. For instance, Peoples Town Hall announced a Community Event for
-ways for folks to get involved "inside the system and outside the system". 
+At the 1/23/23 Meeting, council sought to immediately vote on this rule change without discussion or summary explanation.
 
-### After the 1/24/22 Meeting
+Mandelbaum and Sheumaker managed to assert their dissent anyway, and made many crucial points about how bad this rule change was and how it continued to whittle away at Democratic Processes in city government (a pattern with DSM council rule changes).
 
-There was also a media response, including an Editorial from Rekha Basu 
-["Shame on the Des Moines City Council for scheming to silence its only progressive, Black member](https://www.desmoinesregister.com/story/opinion/columnists/rekha-basu/2022/01/25/des-moines-city-council-vote-aimed-only-black-member-indira-sheumaker/9210680002/).
+Public comment was not allowed.
+
+### After the 1/23/23 Meeting
+
+As of 2/5/23, the official updated council rules have not been made public via the city's website.
+
+While implementation is unclear, the rule itself suggests that Des Moines city council members are now constantly at risk of openly violating Iowa's open meeting laws by taking a council vote (to pass/fail majority) outside of an open meeting.
 
 ### Other Notes
 
-Notably, when past rule changes had been passed under dubious circumstances with small and heavily caveated "expansions" to public speaking times 
-included, the media was very willing to play the City's perspective by celebrating the "expansions" and claiming
-the rule changes were not a hostile scheme by Council against the public. With this rule change, the much of the media finally
-admitted what the rule changes were about, and even derided the City for its insulting claims to the contrary.
+This rule change was almost exactly one year after the previous rule change, which had similarly been retaliation against a council member.
+In that rule change, broad changes were made to limit the power of single council members and the public.
+Council members responsible for the rule change admitted the objective was to limit Sheumaker's power after she used basic processes to call for a 24/7 Winter Warming Shelter in Des Moines and was shut-out, in part by Mandelbaum.
+Councillor Boesen was a sponsor on both that rule change and this rule change.
+
+This is the second rule change that targets Mandelbaum, and both were done in similar fashions.
+Rules Version #13 was established on May 10, 2021 in apparent retaliation against Mandelbaum attempting to bring items about policing on the City agenda for discussion and vote.
 
 ## Details
 
-10 rule(s) affected:
+1 rule(s) affected:
 
-- Amended **Rule 16. Citizen Agenda Requests (renamed: Des Moines Residents, Property Owners and City Taxpayers Requests to Speak)**
-- Amended **Rule 28. Manner of Addressing Council**
-- Amended **Rule 31. Matters Not on the Agenda**
-- Amended **Rule 32. Motion Required**
-- Amended **Rule 33. Motion to Reconsider**
-- Amended **Rule 37. Action on Consent Agenda**
-- Amended **Rule 40. Recording Names of Moving Members**
-- Amended **Rule 41. Consideration of Matters Not on Agenda**
-- Amended **Rule 42. Motions**
-- Amended **Rule 42A. Waiver of Ordinance Readings**
+- Amended **Rule 11. Agenda Deadline**
 
-3 rule(s) had proposed changes withdrawn:
-
-- Proposed amendments to **Rule 22. Discussion**
-- Proposed amendments to **Rule 24. Limit on Remarks**
-- Proposed amendments to **Rule 29. Time Limit on Citizen's Remarks**
-
-Amended at the meeting on January 24, 2022 as item I (not on the Consent Agenda). 
+Amended at the meeting on January 23, 2023 as item I (not on the Consent Agenda). 
 No Public Comment was allowed.
 
-The vote passed 6-1 with Roll Call 22-0078.
+The vote passed 5-2 with Roll Call 22-0081.
