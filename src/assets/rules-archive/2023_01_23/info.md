@@ -1,7 +1,7 @@
 # Council Member Agenda Item Rule Change in Retaliation to Request for Abortion Protections
 
 - Version #19
-- Active from January 23, 2023 to Present
+- Active from January 23, 2023 to April 24, 2023
 - Documents:
 - Key Documents:
     - [Rules Version: Transcription](#/view/rules-archive~2023_01_23~transcription)
@@ -81,4 +81,4 @@ Rules Version #13 was established on May 10, 2021 in apparent retaliation agains
 Amended at the meeting on January 23, 2023 as item I (not on the Consent Agenda). 
 No Public Comment was allowed.
 
-The vote passed 5-2 with Roll Call 22-0081.
+The vote passed 5-2 with Roll Call 23-0081.

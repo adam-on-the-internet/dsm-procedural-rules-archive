@@ -5,5 +5,5 @@ import {Injectable} from "@angular/core";
 })
 export class SettingsService {
   public showNav = true;
-  public asOfDate = "January 23, 2023";
+  public asOfDate = "April 24, 2023";
 }
